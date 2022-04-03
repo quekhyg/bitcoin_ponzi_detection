@@ -1,0 +1,779 @@
+Epoch 1/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.3951 - binary_accuracy: 0.8261 - precision: 0.8388 - recall: 0.8158 - F1: 0.8272 - F2: 0.8203
+Epoch 00001: val_loss improved from inf to 0.35129, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.01-0.35
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.3951 - binary_accuracy: 0.8261 - precision: 0.8388 - recall: 0.8158 - F1: 0.8272 - F2: 0.8203 - val_loss: 0.3513 - val_binary_accuracy: 0.8543 - val_precision: 0.8394 - val_recall: 0.8446 - val_F1: 0.8420 - val_F2: 0.8436
+Epoch 2/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.3622 - binary_accuracy: 0.8440 - precision: 0.8576 - recall: 0.8323 - F1: 0.8448 - F2: 0.8373
+Epoch 00002: val_loss improved from 0.35129 to 0.33298, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.02-0.33
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.3619 - binary_accuracy: 0.8441 - precision: 0.8578 - recall: 0.8324 - F1: 0.8449 - F2: 0.8373 - val_loss: 0.3330 - val_binary_accuracy: 0.8604 - val_precision: 0.8601 - val_recall: 0.8316 - val_F1: 0.8456 - val_F2: 0.8371
+Epoch 3/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.3494 - binary_accuracy: 0.8515 - precision: 0.8655 - recall: 0.8393 - F1: 0.8522 - F2: 0.8444
+Epoch 00003: val_loss improved from 0.33298 to 0.32541, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.03-0.33
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.3496 - binary_accuracy: 0.8514 - precision: 0.8654 - recall: 0.8392 - F1: 0.8521 - F2: 0.8443 - val_loss: 0.3254 - val_binary_accuracy: 0.8659 - val_precision: 0.8601 - val_recall: 0.8460 - val_F1: 0.8530 - val_F2: 0.8487
+Epoch 4/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.3407 - binary_accuracy: 0.8550 - precision: 0.8701 - recall: 0.8416 - F1: 0.8556 - F2: 0.8471
+Epoch 00004: val_loss improved from 0.32541 to 0.31462, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.04-0.31
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.3409 - binary_accuracy: 0.8549 - precision: 0.8698 - recall: 0.8415 - F1: 0.8554 - F2: 0.8470 - val_loss: 0.3146 - val_binary_accuracy: 0.8727 - val_precision: 0.8713 - val_recall: 0.8483 - val_F1: 0.8596 - val_F2: 0.8528
+Epoch 5/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.3330 - binary_accuracy: 0.8561 - precision: 0.8691 - recall: 0.8452 - F1: 0.8570 - F2: 0.8499
+Epoch 00005: val_loss improved from 0.31462 to 0.31107, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.05-0.31
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.3328 - binary_accuracy: 0.8562 - precision: 0.8692 - recall: 0.8453 - F1: 0.8571 - F2: 0.8500 - val_loss: 0.3111 - val_binary_accuracy: 0.8718 - val_precision: 0.8796 - val_recall: 0.8355 - val_F1: 0.8570 - val_F2: 0.8440
+Epoch 6/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.3254 - binary_accuracy: 0.8621 - precision: 0.8749 - recall: 0.8515 - F1: 0.8630 - F2: 0.8561
+Epoch 00006: val_loss improved from 0.31107 to 0.30671, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.06-0.31
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.3254 - binary_accuracy: 0.8621 - precision: 0.8749 - recall: 0.8515 - F1: 0.8630 - F2: 0.8561 - val_loss: 0.3067 - val_binary_accuracy: 0.8718 - val_precision: 0.8892 - val_recall: 0.8238 - val_F1: 0.8552 - val_F2: 0.8361
+Epoch 7/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.3196 - binary_accuracy: 0.8661 - precision: 0.8791 - recall: 0.8548 - F1: 0.8668 - F2: 0.8596
+Epoch 00007: val_loss improved from 0.30671 to 0.29752, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.07-0.30
+1042/1042 [==============================] - 12s 12ms/step - loss: 0.3197 - binary_accuracy: 0.8660 - precision: 0.8791 - recall: 0.8548 - F1: 0.8668 - F2: 0.8595 - val_loss: 0.2975 - val_binary_accuracy: 0.8788 - val_precision: 0.8782 - val_recall: 0.8548 - val_F1: 0.8664 - val_F2: 0.8594
+Epoch 8/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.3121 - binary_accuracy: 0.8682 - precision: 0.8806 - recall: 0.8581 - F1: 0.8692 - F2: 0.8625
+Epoch 00008: val_loss improved from 0.29752 to 0.29715, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.08-0.30
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.3120 - binary_accuracy: 0.8681 - precision: 0.8806 - recall: 0.8578 - F1: 0.8691 - F2: 0.8623 - val_loss: 0.2971 - val_binary_accuracy: 0.8807 - val_precision: 0.8793 - val_recall: 0.8582 - val_F1: 0.8687 - val_F2: 0.8624
+Epoch 9/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.3089 - binary_accuracy: 0.8684 - precision: 0.8819 - recall: 0.8567 - F1: 0.8691 - F2: 0.8617
+Epoch 00009: val_loss improved from 0.29715 to 0.29711, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.09-0.30
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.3092 - binary_accuracy: 0.8683 - precision: 0.8817 - recall: 0.8567 - F1: 0.8690 - F2: 0.8616 - val_loss: 0.2971 - val_binary_accuracy: 0.8779 - val_precision: 0.8622 - val_recall: 0.8742 - val_F1: 0.8681 - val_F2: 0.8717
+Epoch 10/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.3061 - binary_accuracy: 0.8707 - precision: 0.8834 - recall: 0.8601 - F1: 0.8716 - F2: 0.8646
+Epoch 00010: val_loss did not improve from 0.29711
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.3061 - binary_accuracy: 0.8706 - precision: 0.8833 - recall: 0.8600 - F1: 0.8715 - F2: 0.8646 - val_loss: 0.3014 - val_binary_accuracy: 0.8777 - val_precision: 0.8531 - val_recall: 0.8867 - val_F1: 0.8695 - val_F2: 0.8797
+Epoch 11/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.3050 - binary_accuracy: 0.8723 - precision: 0.8859 - recall: 0.8605 - F1: 0.8730 - F2: 0.8655
+Epoch 00011: val_loss improved from 0.29711 to 0.28826, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.11-0.29
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.3051 - binary_accuracy: 0.8723 - precision: 0.8859 - recall: 0.8604 - F1: 0.8730 - F2: 0.8654 - val_loss: 0.2883 - val_binary_accuracy: 0.8830 - val_precision: 0.8836 - val_recall: 0.8585 - val_F1: 0.8709 - val_F2: 0.8634
+Epoch 12/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.3001 - binary_accuracy: 0.8731 - precision: 0.8859 - recall: 0.8623 - F1: 0.8739 - F2: 0.8669
+Epoch 00012: val_loss did not improve from 0.28826
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.3000 - binary_accuracy: 0.8732 - precision: 0.8860 - recall: 0.8623 - F1: 0.8740 - F2: 0.8670 - val_loss: 0.2883 - val_binary_accuracy: 0.8857 - val_precision: 0.8743 - val_recall: 0.8775 - val_F1: 0.8759 - val_F2: 0.8769
+Epoch 13/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2974 - binary_accuracy: 0.8743 - precision: 0.8865 - recall: 0.8641 - F1: 0.8752 - F2: 0.8685
+Epoch 00013: val_loss did not improve from 0.28826
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2974 - binary_accuracy: 0.8743 - precision: 0.8865 - recall: 0.8641 - F1: 0.8752 - F2: 0.8685 - val_loss: 0.2896 - val_binary_accuracy: 0.8849 - val_precision: 0.8793 - val_recall: 0.8689 - val_F1: 0.8741 - val_F2: 0.8710
+Epoch 14/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2967 - binary_accuracy: 0.8753 - precision: 0.8887 - recall: 0.8637 - F1: 0.8760 - F2: 0.8686
+Epoch 00014: val_loss improved from 0.28826 to 0.28805, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.14-0.29
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2966 - binary_accuracy: 0.8753 - precision: 0.8886 - recall: 0.8638 - F1: 0.8761 - F2: 0.8687 - val_loss: 0.2880 - val_binary_accuracy: 0.8863 - val_precision: 0.8753 - val_recall: 0.8778 - val_F1: 0.8765 - val_F2: 0.8773
+Epoch 15/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2936 - binary_accuracy: 0.8764 - precision: 0.8881 - recall: 0.8668 - F1: 0.8773 - F2: 0.8709
+Epoch 00015: val_loss improved from 0.28805 to 0.28768, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.15-0.29
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2936 - binary_accuracy: 0.8763 - precision: 0.8880 - recall: 0.8668 - F1: 0.8773 - F2: 0.8710 - val_loss: 0.2877 - val_binary_accuracy: 0.8825 - val_precision: 0.8852 - val_recall: 0.8554 - val_F1: 0.8700 - val_F2: 0.8612
+Epoch 16/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2932 - binary_accuracy: 0.8769 - precision: 0.8890 - recall: 0.8672 - F1: 0.8779 - F2: 0.8715
+Epoch 00016: val_loss improved from 0.28768 to 0.28205, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.16-0.28
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2934 - binary_accuracy: 0.8767 - precision: 0.8887 - recall: 0.8669 - F1: 0.8777 - F2: 0.8712 - val_loss: 0.2820 - val_binary_accuracy: 0.8853 - val_precision: 0.8844 - val_recall: 0.8632 - val_F1: 0.8737 - val_F2: 0.8674
+Epoch 17/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2911 - binary_accuracy: 0.8759 - precision: 0.8868 - recall: 0.8676 - F1: 0.8771 - F2: 0.8714
+Epoch 00017: val_loss did not improve from 0.28205
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2912 - binary_accuracy: 0.8758 - precision: 0.8866 - recall: 0.8675 - F1: 0.8770 - F2: 0.8712 - val_loss: 0.2841 - val_binary_accuracy: 0.8860 - val_precision: 0.9002 - val_recall: 0.8457 - val_F1: 0.8721 - val_F2: 0.8561
+Epoch 18/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2902 - binary_accuracy: 0.8771 - precision: 0.8889 - recall: 0.8673 - F1: 0.8780 - F2: 0.8716
+Epoch 00018: val_loss did not improve from 0.28205
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2900 - binary_accuracy: 0.8771 - precision: 0.8889 - recall: 0.8674 - F1: 0.8780 - F2: 0.8716 - val_loss: 0.2844 - val_binary_accuracy: 0.8860 - val_precision: 0.8725 - val_recall: 0.8807 - val_F1: 0.8766 - val_F2: 0.8790
+Epoch 19/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2884 - binary_accuracy: 0.8793 - precision: 0.8899 - recall: 0.8710 - F1: 0.8804 - F2: 0.8747
+Epoch 00019: val_loss improved from 0.28205 to 0.28152, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.19-0.28
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2884 - binary_accuracy: 0.8793 - precision: 0.8901 - recall: 0.8709 - F1: 0.8804 - F2: 0.8747 - val_loss: 0.2815 - val_binary_accuracy: 0.8867 - val_precision: 0.8894 - val_recall: 0.8606 - val_F1: 0.8747 - val_F2: 0.8662
+Epoch 20/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2856 - binary_accuracy: 0.8790 - precision: 0.8904 - recall: 0.8700 - F1: 0.8801 - F2: 0.8740
+Epoch 00020: val_loss improved from 0.28152 to 0.27898, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.20-0.28
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2855 - binary_accuracy: 0.8790 - precision: 0.8904 - recall: 0.8699 - F1: 0.8800 - F2: 0.8739 - val_loss: 0.2790 - val_binary_accuracy: 0.8890 - val_precision: 0.8901 - val_recall: 0.8653 - val_F1: 0.8775 - val_F2: 0.8701
+Epoch 21/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2852 - binary_accuracy: 0.8807 - precision: 0.8926 - recall: 0.8709 - F1: 0.8816 - F2: 0.8752
+Epoch 00021: val_loss did not improve from 0.27898
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2851 - binary_accuracy: 0.8808 - precision: 0.8926 - recall: 0.8710 - F1: 0.8817 - F2: 0.8753 - val_loss: 0.2851 - val_binary_accuracy: 0.8856 - val_precision: 0.8753 - val_recall: 0.8760 - val_F1: 0.8756 - val_F2: 0.8758
+Epoch 22/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2841 - binary_accuracy: 0.8811 - precision: 0.8943 - recall: 0.8698 - F1: 0.8818 - F2: 0.8745
+Epoch 00022: val_loss did not improve from 0.27898
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2841 - binary_accuracy: 0.8811 - precision: 0.8942 - recall: 0.8698 - F1: 0.8819 - F2: 0.8746 - val_loss: 0.2798 - val_binary_accuracy: 0.8871 - val_precision: 0.8773 - val_recall: 0.8770 - val_F1: 0.8771 - val_F2: 0.8771
+Epoch 23/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2840 - binary_accuracy: 0.8808 - precision: 0.8928 - recall: 0.8708 - F1: 0.8817 - F2: 0.8751
+Epoch 00023: val_loss did not improve from 0.27898
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2841 - binary_accuracy: 0.8807 - precision: 0.8927 - recall: 0.8708 - F1: 0.8816 - F2: 0.8751 - val_loss: 0.2807 - val_binary_accuracy: 0.8907 - val_precision: 0.8755 - val_recall: 0.8885 - val_F1: 0.8819 - val_F2: 0.8859
+Epoch 24/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2812 - binary_accuracy: 0.8810 - precision: 0.8915 - recall: 0.8729 - F1: 0.8821 - F2: 0.8765
+Epoch 00024: val_loss did not improve from 0.27898
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2813 - binary_accuracy: 0.8810 - precision: 0.8915 - recall: 0.8730 - F1: 0.8821 - F2: 0.8766 - val_loss: 0.2828 - val_binary_accuracy: 0.8865 - val_precision: 0.8732 - val_recall: 0.8809 - val_F1: 0.8770 - val_F2: 0.8794
+Epoch 25/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2799 - binary_accuracy: 0.8821 - precision: 0.8922 - recall: 0.8746 - F1: 0.8833 - F2: 0.8781
+Epoch 00025: val_loss did not improve from 0.27898
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2798 - binary_accuracy: 0.8822 - precision: 0.8922 - recall: 0.8747 - F1: 0.8833 - F2: 0.8781 - val_loss: 0.2816 - val_binary_accuracy: 0.8892 - val_precision: 0.8921 - val_recall: 0.8634 - val_F1: 0.8775 - val_F2: 0.8690
+Epoch 26/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2799 - binary_accuracy: 0.8825 - precision: 0.8945 - recall: 0.8724 - F1: 0.8833 - F2: 0.8768
+Epoch 00026: val_loss did not improve from 0.27898
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2800 - binary_accuracy: 0.8824 - precision: 0.8944 - recall: 0.8725 - F1: 0.8833 - F2: 0.8768 - val_loss: 0.2794 - val_binary_accuracy: 0.8895 - val_precision: 0.8734 - val_recall: 0.8883 - val_F1: 0.8808 - val_F2: 0.8852
+Epoch 27/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2787 - binary_accuracy: 0.8835 - precision: 0.8940 - recall: 0.8754 - F1: 0.8846 - F2: 0.8790
+Epoch 00027: val_loss improved from 0.27898 to 0.27641, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.27-0.28
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2789 - binary_accuracy: 0.8834 - precision: 0.8940 - recall: 0.8752 - F1: 0.8845 - F2: 0.8789 - val_loss: 0.2764 - val_binary_accuracy: 0.8905 - val_precision: 0.9026 - val_recall: 0.8540 - val_F1: 0.8776 - val_F2: 0.8633
+Epoch 28/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2776 - binary_accuracy: 0.8832 - precision: 0.8948 - recall: 0.8737 - F1: 0.8841 - F2: 0.8779
+Epoch 00028: val_loss did not improve from 0.27641
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2780 - binary_accuracy: 0.8831 - precision: 0.8948 - recall: 0.8735 - F1: 0.8840 - F2: 0.8777 - val_loss: 0.2784 - val_binary_accuracy: 0.8857 - val_precision: 0.8969 - val_recall: 0.8491 - val_F1: 0.8723 - val_F2: 0.8582
+Epoch 29/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2770 - binary_accuracy: 0.8851 - precision: 0.8968 - recall: 0.8754 - F1: 0.8860 - F2: 0.8796
+Epoch 00029: val_loss improved from 0.27641 to 0.27584, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.29-0.28
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2769 - binary_accuracy: 0.8851 - precision: 0.8969 - recall: 0.8754 - F1: 0.8860 - F2: 0.8796 - val_loss: 0.2758 - val_binary_accuracy: 0.8920 - val_precision: 0.8919 - val_recall: 0.8705 - val_F1: 0.8811 - val_F2: 0.8747
+Epoch 30/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2757 - binary_accuracy: 0.8845 - precision: 0.8965 - recall: 0.8744 - F1: 0.8853 - F2: 0.8787
+Epoch 00030: val_loss improved from 0.27584 to 0.27561, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.30-0.28
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2757 - binary_accuracy: 0.8845 - precision: 0.8966 - recall: 0.8744 - F1: 0.8853 - F2: 0.8787 - val_loss: 0.2756 - val_binary_accuracy: 0.8920 - val_precision: 0.8793 - val_recall: 0.8867 - val_F1: 0.8830 - val_F2: 0.8852
+Epoch 31/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2739 - binary_accuracy: 0.8847 - precision: 0.8970 - recall: 0.8744 - F1: 0.8856 - F2: 0.8788
+Epoch 00031: val_loss improved from 0.27561 to 0.27429, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.31-0.27
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2740 - binary_accuracy: 0.8846 - precision: 0.8969 - recall: 0.8743 - F1: 0.8854 - F2: 0.8787 - val_loss: 0.2743 - val_binary_accuracy: 0.8926 - val_precision: 0.8919 - val_recall: 0.8721 - val_F1: 0.8818 - val_F2: 0.8760
+Epoch 32/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2736 - binary_accuracy: 0.8860 - precision: 0.8967 - recall: 0.8775 - F1: 0.8870 - F2: 0.8813
+Epoch 00032: val_loss did not improve from 0.27429
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2734 - binary_accuracy: 0.8861 - precision: 0.8969 - recall: 0.8777 - F1: 0.8872 - F2: 0.8814 - val_loss: 0.2775 - val_binary_accuracy: 0.8883 - val_precision: 0.8929 - val_recall: 0.8601 - val_F1: 0.8762 - val_F2: 0.8664
+Epoch 33/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2746 - binary_accuracy: 0.8866 - precision: 0.8994 - recall: 0.8756 - F1: 0.8873 - F2: 0.8803
+Epoch 00033: val_loss did not improve from 0.27429
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2744 - binary_accuracy: 0.8867 - precision: 0.8995 - recall: 0.8757 - F1: 0.8875 - F2: 0.8804 - val_loss: 0.2743 - val_binary_accuracy: 0.8933 - val_precision: 0.8799 - val_recall: 0.8893 - val_F1: 0.8846 - val_F2: 0.8874
+Epoch 34/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2745 - binary_accuracy: 0.8854 - precision: 0.8969 - recall: 0.8761 - F1: 0.8864 - F2: 0.8802
+Epoch 00034: val_loss did not improve from 0.27429
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2744 - binary_accuracy: 0.8855 - precision: 0.8969 - recall: 0.8762 - F1: 0.8865 - F2: 0.8803 - val_loss: 0.2809 - val_binary_accuracy: 0.8895 - val_precision: 0.8809 - val_recall: 0.8783 - val_F1: 0.8796 - val_F2: 0.8788
+Epoch 35/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2717 - binary_accuracy: 0.8869 - precision: 0.8983 - recall: 0.8778 - F1: 0.8879 - F2: 0.8818
+Epoch 00035: val_loss did not improve from 0.27429
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2716 - binary_accuracy: 0.8869 - precision: 0.8983 - recall: 0.8777 - F1: 0.8879 - F2: 0.8818 - val_loss: 0.2779 - val_binary_accuracy: 0.8879 - val_precision: 0.8888 - val_recall: 0.8642 - val_F1: 0.8764 - val_F2: 0.8690
+Epoch 36/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2734 - binary_accuracy: 0.8864 - precision: 0.8975 - recall: 0.8775 - F1: 0.8874 - F2: 0.8814
+Epoch 00036: val_loss improved from 0.27429 to 0.27183, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.36-0.27
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2734 - binary_accuracy: 0.8864 - precision: 0.8975 - recall: 0.8775 - F1: 0.8874 - F2: 0.8814 - val_loss: 0.2718 - val_binary_accuracy: 0.8927 - val_precision: 0.8934 - val_recall: 0.8705 - val_F1: 0.8818 - val_F2: 0.8750
+Epoch 37/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2700 - binary_accuracy: 0.8869 - precision: 0.8986 - recall: 0.8771 - F1: 0.8878 - F2: 0.8814
+Epoch 00037: val_loss improved from 0.27183 to 0.27104, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.37-0.27
+1042/1042 [==============================] - 12s 12ms/step - loss: 0.2702 - binary_accuracy: 0.8868 - precision: 0.8984 - recall: 0.8772 - F1: 0.8877 - F2: 0.8814 - val_loss: 0.2710 - val_binary_accuracy: 0.8940 - val_precision: 0.8903 - val_recall: 0.8775 - val_F1: 0.8839 - val_F2: 0.8801
+Epoch 38/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2688 - binary_accuracy: 0.8888 - precision: 0.9000 - recall: 0.8797 - F1: 0.8897 - F2: 0.8837
+Epoch 00038: val_loss did not improve from 0.27104
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2689 - binary_accuracy: 0.8887 - precision: 0.8999 - recall: 0.8795 - F1: 0.8896 - F2: 0.8835 - val_loss: 0.2736 - val_binary_accuracy: 0.8895 - val_precision: 0.8903 - val_recall: 0.8663 - val_F1: 0.8781 - val_F2: 0.8710
+Epoch 39/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2696 - binary_accuracy: 0.8866 - precision: 0.8991 - recall: 0.8758 - F1: 0.8873 - F2: 0.8804
+Epoch 00039: val_loss improved from 0.27104 to 0.26881, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.39-0.27
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2696 - binary_accuracy: 0.8865 - precision: 0.8991 - recall: 0.8759 - F1: 0.8873 - F2: 0.8804 - val_loss: 0.2688 - val_binary_accuracy: 0.8935 - val_precision: 0.8985 - val_recall: 0.8663 - val_F1: 0.8821 - val_F2: 0.8726
+Epoch 40/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2685 - binary_accuracy: 0.8888 - precision: 0.9011 - recall: 0.8786 - F1: 0.8897 - F2: 0.8830
+Epoch 00040: val_loss did not improve from 0.26881
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2687 - binary_accuracy: 0.8887 - precision: 0.9009 - recall: 0.8784 - F1: 0.8895 - F2: 0.8828 - val_loss: 0.2770 - val_binary_accuracy: 0.8898 - val_precision: 0.8758 - val_recall: 0.8859 - val_F1: 0.8808 - val_F2: 0.8839
+Epoch 41/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2683 - binary_accuracy: 0.8887 - precision: 0.8998 - recall: 0.8800 - F1: 0.8898 - F2: 0.8839
+Epoch 00041: val_loss did not improve from 0.26881
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2683 - binary_accuracy: 0.8887 - precision: 0.8996 - recall: 0.8801 - F1: 0.8897 - F2: 0.8839 - val_loss: 0.2727 - val_binary_accuracy: 0.8919 - val_precision: 0.8902 - val_recall: 0.8723 - val_F1: 0.8812 - val_F2: 0.8758
+Epoch 42/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2666 - binary_accuracy: 0.8880 - precision: 0.8992 - recall: 0.8790 - F1: 0.8890 - F2: 0.8829
+Epoch 00042: val_loss improved from 0.26881 to 0.26804, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.42-0.27
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2667 - binary_accuracy: 0.8879 - precision: 0.8992 - recall: 0.8789 - F1: 0.8889 - F2: 0.8829 - val_loss: 0.2680 - val_binary_accuracy: 0.8939 - val_precision: 0.8899 - val_recall: 0.8778 - val_F1: 0.8838 - val_F2: 0.8802
+Epoch 43/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2679 - binary_accuracy: 0.8880 - precision: 0.8981 - recall: 0.8803 - F1: 0.8891 - F2: 0.8838
+Epoch 00043: val_loss did not improve from 0.26804
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2679 - binary_accuracy: 0.8879 - precision: 0.8979 - recall: 0.8803 - F1: 0.8890 - F2: 0.8838 - val_loss: 0.2684 - val_binary_accuracy: 0.8958 - val_precision: 0.8939 - val_recall: 0.8775 - val_F1: 0.8856 - val_F2: 0.8808
+Epoch 44/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2656 - binary_accuracy: 0.8900 - precision: 0.9005 - recall: 0.8819 - F1: 0.8911 - F2: 0.8855
+Epoch 00044: val_loss did not improve from 0.26804
+1042/1042 [==============================] - 12s 12ms/step - loss: 0.2657 - binary_accuracy: 0.8900 - precision: 0.9003 - recall: 0.8820 - F1: 0.8910 - F2: 0.8856 - val_loss: 0.2718 - val_binary_accuracy: 0.8926 - val_precision: 0.8823 - val_recall: 0.8843 - val_F1: 0.8833 - val_F2: 0.8839
+Epoch 45/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2628 - binary_accuracy: 0.8906 - precision: 0.9010 - recall: 0.8827 - F1: 0.8917 - F2: 0.8863
+Epoch 00045: val_loss did not improve from 0.26804
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2629 - binary_accuracy: 0.8906 - precision: 0.9009 - recall: 0.8825 - F1: 0.8916 - F2: 0.8861 - val_loss: 0.2716 - val_binary_accuracy: 0.8920 - val_precision: 0.8849 - val_recall: 0.8794 - val_F1: 0.8821 - val_F2: 0.8805
+Epoch 46/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2642 - binary_accuracy: 0.8903 - precision: 0.9026 - recall: 0.8800 - F1: 0.8912 - F2: 0.8844
+Epoch 00046: val_loss did not improve from 0.26804
+1042/1042 [==============================] - 12s 12ms/step - loss: 0.2642 - binary_accuracy: 0.8904 - precision: 0.9026 - recall: 0.8800 - F1: 0.8912 - F2: 0.8844 - val_loss: 0.2702 - val_binary_accuracy: 0.8965 - val_precision: 0.8891 - val_recall: 0.8854 - val_F1: 0.8872 - val_F2: 0.8861
+Epoch 47/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2643 - binary_accuracy: 0.8901 - precision: 0.9014 - recall: 0.8810 - F1: 0.8910 - F2: 0.8850
+Epoch 00047: val_loss improved from 0.26804 to 0.26737, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.47-0.27
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2643 - binary_accuracy: 0.8901 - precision: 0.9014 - recall: 0.8810 - F1: 0.8910 - F2: 0.8850 - val_loss: 0.2674 - val_binary_accuracy: 0.8979 - val_precision: 0.8923 - val_recall: 0.8846 - val_F1: 0.8884 - val_F2: 0.8861
+Epoch 48/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2606 - binary_accuracy: 0.8913 - precision: 0.9027 - recall: 0.8820 - F1: 0.8922 - F2: 0.8861
+Epoch 00048: val_loss did not improve from 0.26737
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2606 - binary_accuracy: 0.8914 - precision: 0.9028 - recall: 0.8820 - F1: 0.8923 - F2: 0.8861 - val_loss: 0.2674 - val_binary_accuracy: 0.8957 - val_precision: 0.8936 - val_recall: 0.8775 - val_F1: 0.8855 - val_F2: 0.8807
+Epoch 49/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2610 - binary_accuracy: 0.8918 - precision: 0.9025 - recall: 0.8833 - F1: 0.8928 - F2: 0.8871
+Epoch 00049: val_loss did not improve from 0.26737
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2610 - binary_accuracy: 0.8918 - precision: 0.9025 - recall: 0.8833 - F1: 0.8928 - F2: 0.8871 - val_loss: 0.2731 - val_binary_accuracy: 0.8898 - val_precision: 0.8899 - val_recall: 0.8676 - val_F1: 0.8786 - val_F2: 0.8720
+Epoch 50/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2606 - binary_accuracy: 0.8916 - precision: 0.9031 - recall: 0.8821 - F1: 0.8925 - F2: 0.8862
+Epoch 00050: val_loss did not improve from 0.26737
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2605 - binary_accuracy: 0.8916 - precision: 0.9030 - recall: 0.8822 - F1: 0.8925 - F2: 0.8863 - val_loss: 0.2692 - val_binary_accuracy: 0.8952 - val_precision: 0.8859 - val_recall: 0.8862 - val_F1: 0.8860 - val_F2: 0.8861
+Epoch 51/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2590 - binary_accuracy: 0.8918 - precision: 0.9035 - recall: 0.8821 - F1: 0.8926 - F2: 0.8863
+Epoch 00051: val_loss did not improve from 0.26737
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2591 - binary_accuracy: 0.8917 - precision: 0.9035 - recall: 0.8820 - F1: 0.8926 - F2: 0.8862 - val_loss: 0.2737 - val_binary_accuracy: 0.8908 - val_precision: 0.8904 - val_recall: 0.8695 - val_F1: 0.8798 - val_F2: 0.8736
+Epoch 52/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2599 - binary_accuracy: 0.8917 - precision: 0.9026 - recall: 0.8829 - F1: 0.8926 - F2: 0.8868
+Epoch 00052: val_loss did not improve from 0.26737
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2599 - binary_accuracy: 0.8918 - precision: 0.9028 - recall: 0.8830 - F1: 0.8927 - F2: 0.8868 - val_loss: 0.2743 - val_binary_accuracy: 0.8929 - val_precision: 0.8774 - val_recall: 0.8916 - val_F1: 0.8845 - val_F2: 0.8888
+Epoch 53/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2595 - binary_accuracy: 0.8928 - precision: 0.9032 - recall: 0.8847 - F1: 0.8938 - F2: 0.8883
+Epoch 00053: val_loss did not improve from 0.26737
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2595 - binary_accuracy: 0.8928 - precision: 0.9032 - recall: 0.8846 - F1: 0.8938 - F2: 0.8883 - val_loss: 0.2681 - val_binary_accuracy: 0.8946 - val_precision: 0.8903 - val_recall: 0.8791 - val_F1: 0.8847 - val_F2: 0.8813
+Epoch 54/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2598 - binary_accuracy: 0.8914 - precision: 0.9034 - recall: 0.8815 - F1: 0.8923 - F2: 0.8858
+Epoch 00054: val_loss improved from 0.26737 to 0.26487, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.54-0.26
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2597 - binary_accuracy: 0.8915 - precision: 0.9033 - recall: 0.8816 - F1: 0.8923 - F2: 0.8859 - val_loss: 0.2649 - val_binary_accuracy: 0.8953 - val_precision: 0.8957 - val_recall: 0.8742 - val_F1: 0.8848 - val_F2: 0.8784
+Epoch 55/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2584 - binary_accuracy: 0.8942 - precision: 0.9060 - recall: 0.8844 - F1: 0.8951 - F2: 0.8886
+Epoch 00055: val_loss did not improve from 0.26487
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2586 - binary_accuracy: 0.8942 - precision: 0.9060 - recall: 0.8843 - F1: 0.8950 - F2: 0.8886 - val_loss: 0.2692 - val_binary_accuracy: 0.8935 - val_precision: 0.8904 - val_recall: 0.8762 - val_F1: 0.8833 - val_F2: 0.8790
+Epoch 56/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2594 - binary_accuracy: 0.8932 - precision: 0.9056 - recall: 0.8827 - F1: 0.8940 - F2: 0.8872
+Epoch 00056: val_loss did not improve from 0.26487
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2593 - binary_accuracy: 0.8931 - precision: 0.9054 - recall: 0.8827 - F1: 0.8939 - F2: 0.8872 - val_loss: 0.2699 - val_binary_accuracy: 0.8940 - val_precision: 0.8842 - val_recall: 0.8854 - val_F1: 0.8848 - val_F2: 0.8851
+Epoch 57/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2579 - binary_accuracy: 0.8913 - precision: 0.9018 - recall: 0.8830 - F1: 0.8923 - F2: 0.8867
+Epoch 00057: val_loss did not improve from 0.26487
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2580 - binary_accuracy: 0.8913 - precision: 0.9018 - recall: 0.8831 - F1: 0.8923 - F2: 0.8868 - val_loss: 0.2686 - val_binary_accuracy: 0.8968 - val_precision: 0.9022 - val_recall: 0.8697 - val_F1: 0.8857 - val_F2: 0.8760
+Epoch 58/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2584 - binary_accuracy: 0.8924 - precision: 0.9036 - recall: 0.8833 - F1: 0.8933 - F2: 0.8873
+Epoch 00058: val_loss did not improve from 0.26487
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2581 - binary_accuracy: 0.8925 - precision: 0.9037 - recall: 0.8834 - F1: 0.8934 - F2: 0.8874 - val_loss: 0.2680 - val_binary_accuracy: 0.8955 - val_precision: 0.8995 - val_recall: 0.8697 - val_F1: 0.8844 - val_F2: 0.8755
+Epoch 59/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2556 - binary_accuracy: 0.8934 - precision: 0.9051 - recall: 0.8837 - F1: 0.8943 - F2: 0.8879
+Epoch 00059: val_loss did not improve from 0.26487
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2557 - binary_accuracy: 0.8934 - precision: 0.9050 - recall: 0.8837 - F1: 0.8942 - F2: 0.8879 - val_loss: 0.2665 - val_binary_accuracy: 0.8976 - val_precision: 0.8949 - val_recall: 0.8807 - val_F1: 0.8877 - val_F2: 0.8835
+Epoch 60/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2569 - binary_accuracy: 0.8926 - precision: 0.9043 - recall: 0.8827 - F1: 0.8934 - F2: 0.8870
+Epoch 00060: val_loss did not improve from 0.26487
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2572 - binary_accuracy: 0.8924 - precision: 0.9044 - recall: 0.8822 - F1: 0.8932 - F2: 0.8866 - val_loss: 0.2664 - val_binary_accuracy: 0.8980 - val_precision: 0.8978 - val_recall: 0.8781 - val_F1: 0.8878 - val_F2: 0.8819
+Epoch 61/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2571 - binary_accuracy: 0.8934 - precision: 0.9036 - recall: 0.8854 - F1: 0.8944 - F2: 0.8890
+Epoch 00061: val_loss did not improve from 0.26487
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2571 - binary_accuracy: 0.8934 - precision: 0.9036 - recall: 0.8855 - F1: 0.8945 - F2: 0.8891 - val_loss: 0.2668 - val_binary_accuracy: 0.8951 - val_precision: 0.8906 - val_recall: 0.8799 - val_F1: 0.8852 - val_F2: 0.8820
+Epoch 62/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2535 - binary_accuracy: 0.8952 - precision: 0.9046 - recall: 0.8881 - F1: 0.8963 - F2: 0.8914
+Epoch 00062: val_loss did not improve from 0.26487
+1042/1042 [==============================] - 12s 12ms/step - loss: 0.2534 - binary_accuracy: 0.8952 - precision: 0.9047 - recall: 0.8882 - F1: 0.8964 - F2: 0.8914 - val_loss: 0.2679 - val_binary_accuracy: 0.8949 - val_precision: 0.8943 - val_recall: 0.8747 - val_F1: 0.8844 - val_F2: 0.8785
+Epoch 63/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2545 - binary_accuracy: 0.8957 - precision: 0.9065 - recall: 0.8869 - F1: 0.8966 - F2: 0.8908
+Epoch 00063: val_loss improved from 0.26487 to 0.26373, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.63-0.26
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2545 - binary_accuracy: 0.8957 - precision: 0.9065 - recall: 0.8869 - F1: 0.8966 - F2: 0.8908 - val_loss: 0.2637 - val_binary_accuracy: 0.8961 - val_precision: 0.8954 - val_recall: 0.8762 - val_F1: 0.8857 - val_F2: 0.8800
+Epoch 64/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2557 - binary_accuracy: 0.8933 - precision: 0.9055 - recall: 0.8828 - F1: 0.8940 - F2: 0.8873
+Epoch 00064: val_loss did not improve from 0.26373
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2557 - binary_accuracy: 0.8932 - precision: 0.9054 - recall: 0.8828 - F1: 0.8940 - F2: 0.8873 - val_loss: 0.2660 - val_binary_accuracy: 0.8957 - val_precision: 0.8985 - val_recall: 0.8715 - val_F1: 0.8848 - val_F2: 0.8768
+Epoch 65/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2534 - binary_accuracy: 0.8954 - precision: 0.9071 - recall: 0.8855 - F1: 0.8962 - F2: 0.8898
+Epoch 00065: val_loss did not improve from 0.26373
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2534 - binary_accuracy: 0.8955 - precision: 0.9073 - recall: 0.8857 - F1: 0.8964 - F2: 0.8899 - val_loss: 0.2706 - val_binary_accuracy: 0.8927 - val_precision: 0.8923 - val_recall: 0.8718 - val_F1: 0.8819 - val_F2: 0.8758
+Epoch 66/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2521 - binary_accuracy: 0.8953 - precision: 0.9061 - recall: 0.8865 - F1: 0.8962 - F2: 0.8904
+Epoch 00066: val_loss did not improve from 0.26373
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2523 - binary_accuracy: 0.8952 - precision: 0.9060 - recall: 0.8865 - F1: 0.8962 - F2: 0.8904 - val_loss: 0.2644 - val_binary_accuracy: 0.8985 - val_precision: 0.8933 - val_recall: 0.8849 - val_F1: 0.8890 - val_F2: 0.8865
+Epoch 67/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2531 - binary_accuracy: 0.8934 - precision: 0.9045 - recall: 0.8843 - F1: 0.8943 - F2: 0.8882
+Epoch 00067: val_loss did not improve from 0.26373
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2530 - binary_accuracy: 0.8934 - precision: 0.9045 - recall: 0.8844 - F1: 0.8943 - F2: 0.8883 - val_loss: 0.2674 - val_binary_accuracy: 0.8968 - val_precision: 0.8992 - val_recall: 0.8734 - val_F1: 0.8861 - val_F2: 0.8784
+Epoch 68/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2503 - binary_accuracy: 0.8952 - precision: 0.9078 - recall: 0.8842 - F1: 0.8959 - F2: 0.8888
+Epoch 00068: val_loss did not improve from 0.26373
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2502 - binary_accuracy: 0.8953 - precision: 0.9079 - recall: 0.8844 - F1: 0.8960 - F2: 0.8890 - val_loss: 0.2692 - val_binary_accuracy: 0.8935 - val_precision: 0.8825 - val_recall: 0.8864 - val_F1: 0.8845 - val_F2: 0.8856
+Epoch 69/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2509 - binary_accuracy: 0.8961 - precision: 0.9077 - recall: 0.8864 - F1: 0.8969 - F2: 0.8906
+Epoch 00069: val_loss did not improve from 0.26373
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2510 - binary_accuracy: 0.8961 - precision: 0.9075 - recall: 0.8866 - F1: 0.8969 - F2: 0.8907 - val_loss: 0.2719 - val_binary_accuracy: 0.8934 - val_precision: 0.8799 - val_recall: 0.8896 - val_F1: 0.8847 - val_F2: 0.8876
+Epoch 70/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2497 - binary_accuracy: 0.8952 - precision: 0.9058 - recall: 0.8867 - F1: 0.8962 - F2: 0.8905
+Epoch 00070: val_loss did not improve from 0.26373
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2497 - binary_accuracy: 0.8952 - precision: 0.9058 - recall: 0.8867 - F1: 0.8962 - F2: 0.8905 - val_loss: 0.2678 - val_binary_accuracy: 0.8950 - val_precision: 0.8947 - val_recall: 0.8744 - val_F1: 0.8845 - val_F2: 0.8784
+Epoch 71/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2498 - binary_accuracy: 0.8968 - precision: 0.9076 - recall: 0.8880 - F1: 0.8977 - F2: 0.8918
+Epoch 00071: val_loss improved from 0.26373 to 0.26323, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.71-0.26
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2498 - binary_accuracy: 0.8968 - precision: 0.9076 - recall: 0.8880 - F1: 0.8977 - F2: 0.8919 - val_loss: 0.2632 - val_binary_accuracy: 0.8970 - val_precision: 0.8975 - val_recall: 0.8760 - val_F1: 0.8866 - val_F2: 0.8802
+Epoch 72/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2503 - binary_accuracy: 0.8956 - precision: 0.9078 - recall: 0.8853 - F1: 0.8964 - F2: 0.8897
+Epoch 00072: val_loss did not improve from 0.26323
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2503 - binary_accuracy: 0.8956 - precision: 0.9077 - recall: 0.8854 - F1: 0.8964 - F2: 0.8898 - val_loss: 0.2649 - val_binary_accuracy: 0.8970 - val_precision: 0.8872 - val_recall: 0.8890 - val_F1: 0.8881 - val_F2: 0.8887
+Epoch 73/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2497 - binary_accuracy: 0.8970 - precision: 0.9071 - recall: 0.8891 - F1: 0.8980 - F2: 0.8926
+Epoch 00073: val_loss improved from 0.26323 to 0.26307, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.73-0.26
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2498 - binary_accuracy: 0.8969 - precision: 0.9071 - recall: 0.8890 - F1: 0.8979 - F2: 0.8925 - val_loss: 0.2631 - val_binary_accuracy: 0.8944 - val_precision: 0.8927 - val_recall: 0.8755 - val_F1: 0.8840 - val_F2: 0.8789
+Epoch 74/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2504 - binary_accuracy: 0.8959 - precision: 0.9069 - recall: 0.8871 - F1: 0.8968 - F2: 0.8909
+Epoch 00074: val_loss did not improve from 0.26307
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2503 - binary_accuracy: 0.8960 - precision: 0.9067 - recall: 0.8873 - F1: 0.8969 - F2: 0.8911 - val_loss: 0.2643 - val_binary_accuracy: 0.8953 - val_precision: 0.8991 - val_recall: 0.8700 - val_F1: 0.8843 - val_F2: 0.8756
+Epoch 75/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2515 - binary_accuracy: 0.8960 - precision: 0.9065 - recall: 0.8875 - F1: 0.8969 - F2: 0.8913
+Epoch 00075: val_loss did not improve from 0.26307
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2513 - binary_accuracy: 0.8961 - precision: 0.9066 - recall: 0.8877 - F1: 0.8971 - F2: 0.8914 - val_loss: 0.2638 - val_binary_accuracy: 0.8963 - val_precision: 0.8980 - val_recall: 0.8736 - val_F1: 0.8857 - val_F2: 0.8784
+Epoch 76/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2502 - binary_accuracy: 0.8947 - precision: 0.9069 - recall: 0.8845 - F1: 0.8955 - F2: 0.8889
+Epoch 00076: val_loss did not improve from 0.26307
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2503 - binary_accuracy: 0.8947 - precision: 0.9067 - recall: 0.8845 - F1: 0.8955 - F2: 0.8889 - val_loss: 0.2652 - val_binary_accuracy: 0.8951 - val_precision: 0.8871 - val_recall: 0.8843 - val_F1: 0.8857 - val_F2: 0.8849
+Epoch 77/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2486 - binary_accuracy: 0.8961 - precision: 0.9069 - recall: 0.8874 - F1: 0.8971 - F2: 0.8913
+Epoch 00077: val_loss did not improve from 0.26307
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2486 - binary_accuracy: 0.8961 - precision: 0.9069 - recall: 0.8874 - F1: 0.8971 - F2: 0.8913 - val_loss: 0.2702 - val_binary_accuracy: 0.8946 - val_precision: 0.8974 - val_recall: 0.8702 - val_F1: 0.8836 - val_F2: 0.8755
+Epoch 78/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2490 - binary_accuracy: 0.8958 - precision: 0.9080 - recall: 0.8853 - F1: 0.8965 - F2: 0.8898
+Epoch 00078: val_loss did not improve from 0.26307
+1042/1042 [==============================] - 12s 12ms/step - loss: 0.2490 - binary_accuracy: 0.8957 - precision: 0.9081 - recall: 0.8852 - F1: 0.8965 - F2: 0.8897 - val_loss: 0.2633 - val_binary_accuracy: 0.8982 - val_precision: 0.8926 - val_recall: 0.8851 - val_F1: 0.8888 - val_F2: 0.8866
+Epoch 79/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2467 - binary_accuracy: 0.8972 - precision: 0.9088 - recall: 0.8875 - F1: 0.8980 - F2: 0.8917
+Epoch 00079: val_loss improved from 0.26307 to 0.26191, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.79-0.26
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2466 - binary_accuracy: 0.8972 - precision: 0.9087 - recall: 0.8877 - F1: 0.8981 - F2: 0.8918 - val_loss: 0.2619 - val_binary_accuracy: 0.8987 - val_precision: 0.8958 - val_recall: 0.8822 - val_F1: 0.8890 - val_F2: 0.8849
+Epoch 80/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2463 - binary_accuracy: 0.8989 - precision: 0.9106 - recall: 0.8892 - F1: 0.8997 - F2: 0.8934
+Epoch 00080: val_loss did not improve from 0.26191
+1042/1042 [==============================] - 12s 12ms/step - loss: 0.2465 - binary_accuracy: 0.8988 - precision: 0.9105 - recall: 0.8890 - F1: 0.8996 - F2: 0.8932 - val_loss: 0.2691 - val_binary_accuracy: 0.8969 - val_precision: 0.8834 - val_recall: 0.8937 - val_F1: 0.8885 - val_F2: 0.8916
+Epoch 81/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2478 - binary_accuracy: 0.8957 - precision: 0.9070 - recall: 0.8864 - F1: 0.8965 - F2: 0.8904
+Epoch 00081: val_loss did not improve from 0.26191
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2477 - binary_accuracy: 0.8957 - precision: 0.9070 - recall: 0.8864 - F1: 0.8965 - F2: 0.8904 - val_loss: 0.2632 - val_binary_accuracy: 0.8971 - val_precision: 0.8982 - val_recall: 0.8755 - val_F1: 0.8867 - val_F2: 0.8799
+Epoch 82/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2457 - binary_accuracy: 0.8971 - precision: 0.9088 - recall: 0.8873 - F1: 0.8979 - F2: 0.8915
+Epoch 00082: val_loss did not improve from 0.26191
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2456 - binary_accuracy: 0.8972 - precision: 0.9089 - recall: 0.8874 - F1: 0.8980 - F2: 0.8916 - val_loss: 0.2639 - val_binary_accuracy: 0.8986 - val_precision: 0.8935 - val_recall: 0.8849 - val_F1: 0.8892 - val_F2: 0.8866
+Epoch 83/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2470 - binary_accuracy: 0.8975 - precision: 0.9083 - recall: 0.8887 - F1: 0.8984 - F2: 0.8926
+Epoch 00083: val_loss did not improve from 0.26191
+1042/1042 [==============================] - 12s 12ms/step - loss: 0.2471 - binary_accuracy: 0.8975 - precision: 0.9083 - recall: 0.8887 - F1: 0.8984 - F2: 0.8926 - val_loss: 0.2674 - val_binary_accuracy: 0.8974 - val_precision: 0.8961 - val_recall: 0.8786 - val_F1: 0.8873 - val_F2: 0.8820
+Epoch 84/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2466 - binary_accuracy: 0.8978 - precision: 0.9090 - recall: 0.8887 - F1: 0.8987 - F2: 0.8927
+Epoch 00084: val_loss did not improve from 0.26191
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2466 - binary_accuracy: 0.8979 - precision: 0.9090 - recall: 0.8888 - F1: 0.8988 - F2: 0.8927 - val_loss: 0.2630 - val_binary_accuracy: 0.8967 - val_precision: 0.8908 - val_recall: 0.8836 - val_F1: 0.8871 - val_F2: 0.8850
+Epoch 85/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2453 - binary_accuracy: 0.8971 - precision: 0.9078 - recall: 0.8884 - F1: 0.8980 - F2: 0.8922
+Epoch 00085: val_loss did not improve from 0.26191
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2452 - binary_accuracy: 0.8971 - precision: 0.9080 - recall: 0.8882 - F1: 0.8980 - F2: 0.8921 - val_loss: 0.2641 - val_binary_accuracy: 0.8982 - val_precision: 0.9034 - val_recall: 0.8718 - val_F1: 0.8873 - val_F2: 0.8779
+Epoch 86/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2427 - binary_accuracy: 0.8999 - precision: 0.9116 - recall: 0.8900 - F1: 0.9007 - F2: 0.8943
+Epoch 00086: val_loss did not improve from 0.26191
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2427 - binary_accuracy: 0.8999 - precision: 0.9116 - recall: 0.8900 - F1: 0.9007 - F2: 0.8943 - val_loss: 0.2687 - val_binary_accuracy: 0.8959 - val_precision: 0.8859 - val_recall: 0.8880 - val_F1: 0.8869 - val_F2: 0.8876
+Epoch 87/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2446 - binary_accuracy: 0.8984 - precision: 0.9109 - recall: 0.8877 - F1: 0.8991 - F2: 0.8922
+Epoch 00087: val_loss did not improve from 0.26191
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2445 - binary_accuracy: 0.8985 - precision: 0.9109 - recall: 0.8878 - F1: 0.8992 - F2: 0.8924 - val_loss: 0.2654 - val_binary_accuracy: 0.8974 - val_precision: 0.8911 - val_recall: 0.8849 - val_F1: 0.8880 - val_F2: 0.8861
+Epoch 88/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2451 - binary_accuracy: 0.8972 - precision: 0.9091 - recall: 0.8873 - F1: 0.8981 - F2: 0.8916
+Epoch 00088: val_loss did not improve from 0.26191
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2452 - binary_accuracy: 0.8972 - precision: 0.9089 - recall: 0.8874 - F1: 0.8980 - F2: 0.8916 - val_loss: 0.2645 - val_binary_accuracy: 0.8951 - val_precision: 0.8950 - val_recall: 0.8744 - val_F1: 0.8846 - val_F2: 0.8784
+Epoch 89/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2433 - binary_accuracy: 0.8976 - precision: 0.9094 - recall: 0.8879 - F1: 0.8985 - F2: 0.8921
+Epoch 00089: val_loss did not improve from 0.26191
+1042/1042 [==============================] - 12s 12ms/step - loss: 0.2431 - binary_accuracy: 0.8978 - precision: 0.9096 - recall: 0.8880 - F1: 0.8986 - F2: 0.8922 - val_loss: 0.2669 - val_binary_accuracy: 0.8982 - val_precision: 0.8851 - val_recall: 0.8948 - val_F1: 0.8899 - val_F2: 0.8928
+Epoch 90/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2424 - binary_accuracy: 0.9012 - precision: 0.9133 - recall: 0.8909 - F1: 0.9020 - F2: 0.8953
+Epoch 00090: val_loss did not improve from 0.26191
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2423 - binary_accuracy: 0.9012 - precision: 0.9132 - recall: 0.8910 - F1: 0.9020 - F2: 0.8953 - val_loss: 0.2645 - val_binary_accuracy: 0.8991 - val_precision: 0.8932 - val_recall: 0.8864 - val_F1: 0.8898 - val_F2: 0.8878
+Epoch 91/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2438 - binary_accuracy: 0.8972 - precision: 0.9082 - recall: 0.8881 - F1: 0.8981 - F2: 0.8921
+Epoch 00091: val_loss did not improve from 0.26191
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2437 - binary_accuracy: 0.8972 - precision: 0.9082 - recall: 0.8882 - F1: 0.8981 - F2: 0.8922 - val_loss: 0.2664 - val_binary_accuracy: 0.8933 - val_precision: 0.8783 - val_recall: 0.8914 - val_F1: 0.8848 - val_F2: 0.8887
+Epoch 92/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2427 - binary_accuracy: 0.9004 - precision: 0.9127 - recall: 0.8899 - F1: 0.9012 - F2: 0.8944
+Epoch 00092: val_loss improved from 0.26191 to 0.26124, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.92-0.26
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2429 - binary_accuracy: 0.9004 - precision: 0.9127 - recall: 0.8900 - F1: 0.9012 - F2: 0.8944 - val_loss: 0.2612 - val_binary_accuracy: 0.8986 - val_precision: 0.9000 - val_recall: 0.8768 - val_F1: 0.8882 - val_F2: 0.8813
+Epoch 93/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2408 - binary_accuracy: 0.8987 - precision: 0.9099 - recall: 0.8896 - F1: 0.8996 - F2: 0.8936
+Epoch 00093: val_loss improved from 0.26124 to 0.25965, saving model to C:\Users\quekh\Desktop\temp\nn7\f1\ckpt\weights.93-0.26
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2408 - binary_accuracy: 0.8987 - precision: 0.9099 - recall: 0.8896 - F1: 0.8996 - F2: 0.8936 - val_loss: 0.2596 - val_binary_accuracy: 0.8998 - val_precision: 0.8982 - val_recall: 0.8820 - val_F1: 0.8900 - val_F2: 0.8852
+Epoch 94/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2426 - binary_accuracy: 0.8993 - precision: 0.9105 - recall: 0.8902 - F1: 0.9002 - F2: 0.8942
+Epoch 00094: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2427 - binary_accuracy: 0.8993 - precision: 0.9104 - recall: 0.8902 - F1: 0.9002 - F2: 0.8942 - val_loss: 0.2636 - val_binary_accuracy: 0.8988 - val_precision: 0.9077 - val_recall: 0.8681 - val_F1: 0.8875 - val_F2: 0.8758
+Epoch 95/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2396 - binary_accuracy: 0.9017 - precision: 0.9131 - recall: 0.8921 - F1: 0.9025 - F2: 0.8962
+Epoch 00095: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2397 - binary_accuracy: 0.9015 - precision: 0.9132 - recall: 0.8918 - F1: 0.9023 - F2: 0.8960 - val_loss: 0.2633 - val_binary_accuracy: 0.8974 - val_precision: 0.8976 - val_recall: 0.8768 - val_F1: 0.8871 - val_F2: 0.8809
+Epoch 96/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2412 - binary_accuracy: 0.8997 - precision: 0.9107 - recall: 0.8906 - F1: 0.9006 - F2: 0.8946
+Epoch 00096: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2412 - binary_accuracy: 0.8997 - precision: 0.9108 - recall: 0.8905 - F1: 0.9006 - F2: 0.8945 - val_loss: 0.2663 - val_binary_accuracy: 0.8938 - val_precision: 0.8947 - val_recall: 0.8715 - val_F1: 0.8830 - val_F2: 0.8761
+Epoch 97/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2397 - binary_accuracy: 0.9003 - precision: 0.9116 - recall: 0.8909 - F1: 0.9011 - F2: 0.8950
+Epoch 00097: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2396 - binary_accuracy: 0.9003 - precision: 0.9117 - recall: 0.8910 - F1: 0.9012 - F2: 0.8950 - val_loss: 0.2638 - val_binary_accuracy: 0.8989 - val_precision: 0.9075 - val_recall: 0.8687 - val_F1: 0.8877 - val_F2: 0.8762
+Epoch 98/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2402 - binary_accuracy: 0.9000 - precision: 0.9126 - recall: 0.8892 - F1: 0.9007 - F2: 0.8938
+Epoch 00098: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2403 - binary_accuracy: 0.8999 - precision: 0.9123 - recall: 0.8891 - F1: 0.9006 - F2: 0.8937 - val_loss: 0.2631 - val_binary_accuracy: 0.8975 - val_precision: 0.8906 - val_recall: 0.8859 - val_F1: 0.8882 - val_F2: 0.8868
+Epoch 99/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2398 - binary_accuracy: 0.9008 - precision: 0.9123 - recall: 0.8912 - F1: 0.9017 - F2: 0.8954
+Epoch 00099: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2398 - binary_accuracy: 0.9009 - precision: 0.9124 - recall: 0.8912 - F1: 0.9017 - F2: 0.8954 - val_loss: 0.2634 - val_binary_accuracy: 0.8979 - val_precision: 0.8999 - val_recall: 0.8752 - val_F1: 0.8874 - val_F2: 0.8800
+Epoch 100/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2389 - binary_accuracy: 0.9025 - precision: 0.9154 - recall: 0.8912 - F1: 0.9031 - F2: 0.8959
+Epoch 00100: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2392 - binary_accuracy: 0.9024 - precision: 0.9152 - recall: 0.8912 - F1: 0.9030 - F2: 0.8959 - val_loss: 0.2628 - val_binary_accuracy: 0.8979 - val_precision: 0.8986 - val_recall: 0.8768 - val_F1: 0.8875 - val_F2: 0.8810
+Epoch 101/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2383 - binary_accuracy: 0.9008 - precision: 0.9123 - recall: 0.8911 - F1: 0.9016 - F2: 0.8952
+Epoch 00101: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2383 - binary_accuracy: 0.9008 - precision: 0.9123 - recall: 0.8911 - F1: 0.9016 - F2: 0.8952 - val_loss: 0.2655 - val_binary_accuracy: 0.8992 - val_precision: 0.8985 - val_recall: 0.8802 - val_F1: 0.8892 - val_F2: 0.8838
+Epoch 102/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2387 - binary_accuracy: 0.9017 - precision: 0.9125 - recall: 0.8930 - F1: 0.9026 - F2: 0.8968
+Epoch 00102: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2387 - binary_accuracy: 0.9017 - precision: 0.9125 - recall: 0.8930 - F1: 0.9026 - F2: 0.8968 - val_loss: 0.2623 - val_binary_accuracy: 0.8975 - val_precision: 0.9004 - val_recall: 0.8736 - val_F1: 0.8868 - val_F2: 0.8789
+Epoch 103/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2380 - binary_accuracy: 0.9015 - precision: 0.9134 - recall: 0.8914 - F1: 0.9023 - F2: 0.8957
+Epoch 00103: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2381 - binary_accuracy: 0.9014 - precision: 0.9132 - recall: 0.8914 - F1: 0.9022 - F2: 0.8957 - val_loss: 0.2669 - val_binary_accuracy: 0.8965 - val_precision: 0.8889 - val_recall: 0.8856 - val_F1: 0.8873 - val_F2: 0.8863
+Epoch 104/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2387 - binary_accuracy: 0.9010 - precision: 0.9124 - recall: 0.8914 - F1: 0.9018 - F2: 0.8955
+Epoch 00104: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2387 - binary_accuracy: 0.9009 - precision: 0.9124 - recall: 0.8914 - F1: 0.9018 - F2: 0.8955 - val_loss: 0.2676 - val_binary_accuracy: 0.8967 - val_precision: 0.8908 - val_recall: 0.8836 - val_F1: 0.8871 - val_F2: 0.8850
+Epoch 105/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2395 - binary_accuracy: 0.9011 - precision: 0.9125 - recall: 0.8917 - F1: 0.9019 - F2: 0.8957
+Epoch 00105: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2394 - binary_accuracy: 0.9011 - precision: 0.9125 - recall: 0.8917 - F1: 0.9020 - F2: 0.8957 - val_loss: 0.2637 - val_binary_accuracy: 0.8967 - val_precision: 0.8901 - val_recall: 0.8843 - val_F1: 0.8872 - val_F2: 0.8855
+Epoch 106/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2389 - binary_accuracy: 0.9012 - precision: 0.9120 - recall: 0.8925 - F1: 0.9021 - F2: 0.8963
+Epoch 00106: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2387 - binary_accuracy: 0.9014 - precision: 0.9121 - recall: 0.8927 - F1: 0.9023 - F2: 0.8965 - val_loss: 0.2610 - val_binary_accuracy: 0.8977 - val_precision: 0.8981 - val_recall: 0.8770 - val_F1: 0.8875 - val_F2: 0.8812
+Epoch 107/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2383 - binary_accuracy: 0.9009 - precision: 0.9129 - recall: 0.8907 - F1: 0.9017 - F2: 0.8951
+Epoch 00107: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2384 - binary_accuracy: 0.9008 - precision: 0.9128 - recall: 0.8907 - F1: 0.9016 - F2: 0.8950 - val_loss: 0.2677 - val_binary_accuracy: 0.8973 - val_precision: 0.8955 - val_recall: 0.8791 - val_F1: 0.8872 - val_F2: 0.8823
+Epoch 108/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2381 - binary_accuracy: 0.9022 - precision: 0.9131 - recall: 0.8934 - F1: 0.9031 - F2: 0.8973
+Epoch 00108: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2384 - binary_accuracy: 0.9020 - precision: 0.9127 - recall: 0.8934 - F1: 0.9030 - F2: 0.8972 - val_loss: 0.2607 - val_binary_accuracy: 0.8979 - val_precision: 0.8915 - val_recall: 0.8856 - val_F1: 0.8885 - val_F2: 0.8868
+Epoch 109/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2361 - binary_accuracy: 0.9041 - precision: 0.9162 - recall: 0.8937 - F1: 0.9048 - F2: 0.8981
+Epoch 00109: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2363 - binary_accuracy: 0.9039 - precision: 0.9161 - recall: 0.8935 - F1: 0.9046 - F2: 0.8979 - val_loss: 0.2655 - val_binary_accuracy: 0.8976 - val_precision: 0.8979 - val_recall: 0.8770 - val_F1: 0.8873 - val_F2: 0.8811
+Epoch 110/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2352 - binary_accuracy: 0.9018 - precision: 0.9134 - recall: 0.8920 - F1: 0.9026 - F2: 0.8962
+Epoch 00110: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2350 - binary_accuracy: 0.9019 - precision: 0.9135 - recall: 0.8922 - F1: 0.9027 - F2: 0.8964 - val_loss: 0.2690 - val_binary_accuracy: 0.8980 - val_precision: 0.8954 - val_recall: 0.8809 - val_F1: 0.8881 - val_F2: 0.8838
+Epoch 111/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2356 - binary_accuracy: 0.9024 - precision: 0.9134 - recall: 0.8934 - F1: 0.9033 - F2: 0.8973
+Epoch 00111: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2356 - binary_accuracy: 0.9024 - precision: 0.9134 - recall: 0.8934 - F1: 0.9033 - F2: 0.8973 - val_loss: 0.2651 - val_binary_accuracy: 0.8980 - val_precision: 0.8921 - val_recall: 0.8851 - val_F1: 0.8886 - val_F2: 0.8865
+Epoch 112/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2327 - binary_accuracy: 0.9031 - precision: 0.9146 - recall: 0.8935 - F1: 0.9039 - F2: 0.8976
+Epoch 00112: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2327 - binary_accuracy: 0.9031 - precision: 0.9146 - recall: 0.8934 - F1: 0.9039 - F2: 0.8976 - val_loss: 0.2660 - val_binary_accuracy: 0.8982 - val_precision: 0.8920 - val_recall: 0.8859 - val_F1: 0.8889 - val_F2: 0.8871
+Epoch 113/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2342 - binary_accuracy: 0.9020 - precision: 0.9133 - recall: 0.8926 - F1: 0.9028 - F2: 0.8967
+Epoch 00113: ReduceLROnPlateau reducing learning rate to 4.999999873689376e-05.
+
+Epoch 00113: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2343 - binary_accuracy: 0.9019 - precision: 0.9132 - recall: 0.8925 - F1: 0.9027 - F2: 0.8966 - val_loss: 0.2623 - val_binary_accuracy: 0.8980 - val_precision: 0.8890 - val_recall: 0.8890 - val_F1: 0.8890 - val_F2: 0.8890
+Epoch 114/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2308 - binary_accuracy: 0.9052 - precision: 0.9162 - recall: 0.8961 - F1: 0.9060 - F2: 0.9000
+Epoch 00114: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2309 - binary_accuracy: 0.9052 - precision: 0.9162 - recall: 0.8960 - F1: 0.9060 - F2: 0.9000 - val_loss: 0.2629 - val_binary_accuracy: 0.8968 - val_precision: 0.8906 - val_recall: 0.8841 - val_F1: 0.8873 - val_F2: 0.8854
+Epoch 115/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2293 - binary_accuracy: 0.9052 - precision: 0.9173 - recall: 0.8947 - F1: 0.9059 - F2: 0.8992
+Epoch 00115: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 12ms/step - loss: 0.2294 - binary_accuracy: 0.9052 - precision: 0.9173 - recall: 0.8948 - F1: 0.9059 - F2: 0.8992 - val_loss: 0.2656 - val_binary_accuracy: 0.8992 - val_precision: 0.8932 - val_recall: 0.8867 - val_F1: 0.8899 - val_F2: 0.8880
+Epoch 116/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2292 - binary_accuracy: 0.9046 - precision: 0.9166 - recall: 0.8944 - F1: 0.9053 - F2: 0.8987
+Epoch 00116: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 12ms/step - loss: 0.2292 - binary_accuracy: 0.9046 - precision: 0.9166 - recall: 0.8944 - F1: 0.9053 - F2: 0.8987 - val_loss: 0.2614 - val_binary_accuracy: 0.8981 - val_precision: 0.8915 - val_recall: 0.8862 - val_F1: 0.8888 - val_F2: 0.8872
+Epoch 117/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2294 - binary_accuracy: 0.9057 - precision: 0.9166 - recall: 0.8967 - F1: 0.9065 - F2: 0.9006
+Epoch 00117: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 12ms/step - loss: 0.2293 - binary_accuracy: 0.9058 - precision: 0.9168 - recall: 0.8967 - F1: 0.9066 - F2: 0.9006 - val_loss: 0.2646 - val_binary_accuracy: 0.8983 - val_precision: 0.8924 - val_recall: 0.8856 - val_F1: 0.8890 - val_F2: 0.8870
+Epoch 118/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2289 - binary_accuracy: 0.9060 - precision: 0.9188 - recall: 0.8949 - F1: 0.9067 - F2: 0.8996
+Epoch 00118: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2288 - binary_accuracy: 0.9060 - precision: 0.9188 - recall: 0.8948 - F1: 0.9067 - F2: 0.8995 - val_loss: 0.2624 - val_binary_accuracy: 0.8981 - val_precision: 0.8938 - val_recall: 0.8833 - val_F1: 0.8885 - val_F2: 0.8854
+Epoch 119/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2276 - binary_accuracy: 0.9070 - precision: 0.9180 - recall: 0.8978 - F1: 0.9078 - F2: 0.9018
+Epoch 00119: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 12ms/step - loss: 0.2276 - binary_accuracy: 0.9070 - precision: 0.9181 - recall: 0.8977 - F1: 0.9078 - F2: 0.9017 - val_loss: 0.2615 - val_binary_accuracy: 0.8980 - val_precision: 0.8898 - val_recall: 0.8880 - val_F1: 0.8889 - val_F2: 0.8884
+Epoch 120/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2274 - binary_accuracy: 0.9063 - precision: 0.9173 - recall: 0.8973 - F1: 0.9072 - F2: 0.9012
+Epoch 00120: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 12ms/step - loss: 0.2273 - binary_accuracy: 0.9064 - precision: 0.9173 - recall: 0.8974 - F1: 0.9072 - F2: 0.9013 - val_loss: 0.2638 - val_binary_accuracy: 0.8992 - val_precision: 0.8926 - val_recall: 0.8875 - val_F1: 0.8900 - val_F2: 0.8885
+Epoch 121/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2259 - binary_accuracy: 0.9062 - precision: 0.9183 - recall: 0.8958 - F1: 0.9069 - F2: 0.9002
+Epoch 00121: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2261 - binary_accuracy: 0.9061 - precision: 0.9180 - recall: 0.8960 - F1: 0.9069 - F2: 0.9003 - val_loss: 0.2656 - val_binary_accuracy: 0.8974 - val_precision: 0.8847 - val_recall: 0.8932 - val_F1: 0.8889 - val_F2: 0.8915
+Epoch 122/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2264 - binary_accuracy: 0.9052 - precision: 0.9162 - recall: 0.8961 - F1: 0.9061 - F2: 0.9001
+Epoch 00122: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2264 - binary_accuracy: 0.9052 - precision: 0.9162 - recall: 0.8961 - F1: 0.9061 - F2: 0.9001 - val_loss: 0.2650 - val_binary_accuracy: 0.8953 - val_precision: 0.8872 - val_recall: 0.8849 - val_F1: 0.8860 - val_F2: 0.8853
+Epoch 123/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2255 - binary_accuracy: 0.9059 - precision: 0.9162 - recall: 0.8977 - F1: 0.9068 - F2: 0.9013
+Epoch 00123: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2257 - binary_accuracy: 0.9059 - precision: 0.9161 - recall: 0.8976 - F1: 0.9068 - F2: 0.9012 - val_loss: 0.2649 - val_binary_accuracy: 0.8991 - val_precision: 0.8951 - val_recall: 0.8841 - val_F1: 0.8895 - val_F2: 0.8862
+Epoch 124/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2266 - binary_accuracy: 0.9068 - precision: 0.9167 - recall: 0.8989 - F1: 0.9077 - F2: 0.9024
+Epoch 00124: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2267 - binary_accuracy: 0.9068 - precision: 0.9169 - recall: 0.8987 - F1: 0.9077 - F2: 0.9022 - val_loss: 0.2617 - val_binary_accuracy: 0.8986 - val_precision: 0.8968 - val_recall: 0.8807 - val_F1: 0.8887 - val_F2: 0.8839
+Epoch 125/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2254 - binary_accuracy: 0.9060 - precision: 0.9169 - recall: 0.8971 - F1: 0.9069 - F2: 0.9010
+Epoch 00125: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 12ms/step - loss: 0.2253 - binary_accuracy: 0.9060 - precision: 0.9169 - recall: 0.8971 - F1: 0.9069 - F2: 0.9010 - val_loss: 0.2617 - val_binary_accuracy: 0.9000 - val_precision: 0.9001 - val_recall: 0.8802 - val_F1: 0.8900 - val_F2: 0.8841
+Epoch 126/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2250 - binary_accuracy: 0.9068 - precision: 0.9187 - recall: 0.8966 - F1: 0.9075 - F2: 0.9009
+Epoch 00126: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2250 - binary_accuracy: 0.9068 - precision: 0.9187 - recall: 0.8966 - F1: 0.9075 - F2: 0.9009 - val_loss: 0.2621 - val_binary_accuracy: 0.8992 - val_precision: 0.8957 - val_recall: 0.8836 - val_F1: 0.8896 - val_F2: 0.8860
+Epoch 127/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2236 - binary_accuracy: 0.9077 - precision: 0.9180 - recall: 0.8994 - F1: 0.9086 - F2: 0.9030
+Epoch 00127: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 12s 11ms/step - loss: 0.2237 - binary_accuracy: 0.9076 - precision: 0.9180 - recall: 0.8992 - F1: 0.9085 - F2: 0.9029 - val_loss: 0.2635 - val_binary_accuracy: 0.8983 - val_precision: 0.8945 - val_recall: 0.8830 - val_F1: 0.8887 - val_F2: 0.8853
+Epoch 128/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2265 - binary_accuracy: 0.9064 - precision: 0.9182 - recall: 0.8964 - F1: 0.9072 - F2: 0.9007
+Epoch 00128: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2265 - binary_accuracy: 0.9064 - precision: 0.9182 - recall: 0.8964 - F1: 0.9072 - F2: 0.9007 - val_loss: 0.2634 - val_binary_accuracy: 0.8977 - val_precision: 0.8933 - val_recall: 0.8830 - val_F1: 0.8881 - val_F2: 0.8851
+Epoch 129/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2253 - binary_accuracy: 0.9070 - precision: 0.9188 - recall: 0.8968 - F1: 0.9077 - F2: 0.9012
+Epoch 00129: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2253 - binary_accuracy: 0.9070 - precision: 0.9188 - recall: 0.8968 - F1: 0.9077 - F2: 0.9012 - val_loss: 0.2633 - val_binary_accuracy: 0.9000 - val_precision: 0.8942 - val_recall: 0.8875 - val_F1: 0.8908 - val_F2: 0.8888
+Epoch 130/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2237 - binary_accuracy: 0.9083 - precision: 0.9200 - recall: 0.8982 - F1: 0.9090 - F2: 0.9025
+Epoch 00130: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2235 - binary_accuracy: 0.9083 - precision: 0.9201 - recall: 0.8983 - F1: 0.9091 - F2: 0.9026 - val_loss: 0.2627 - val_binary_accuracy: 0.8994 - val_precision: 0.8931 - val_recall: 0.8875 - val_F1: 0.8903 - val_F2: 0.8886
+Epoch 131/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2256 - binary_accuracy: 0.9067 - precision: 0.9181 - recall: 0.8971 - F1: 0.9075 - F2: 0.9012
+Epoch 00131: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2256 - binary_accuracy: 0.9068 - precision: 0.9182 - recall: 0.8971 - F1: 0.9075 - F2: 0.9013 - val_loss: 0.2633 - val_binary_accuracy: 0.8981 - val_precision: 0.8955 - val_recall: 0.8812 - val_F1: 0.8883 - val_F2: 0.8840
+Epoch 132/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2236 - binary_accuracy: 0.9075 - precision: 0.9193 - recall: 0.8975 - F1: 0.9082 - F2: 0.9018
+Epoch 00132: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2236 - binary_accuracy: 0.9075 - precision: 0.9192 - recall: 0.8975 - F1: 0.9083 - F2: 0.9018 - val_loss: 0.2629 - val_binary_accuracy: 0.8982 - val_precision: 0.8936 - val_recall: 0.8838 - val_F1: 0.8887 - val_F2: 0.8858
+Epoch 133/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2231 - binary_accuracy: 0.9083 - precision: 0.9206 - recall: 0.8976 - F1: 0.9090 - F2: 0.9021
+Epoch 00133: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2230 - binary_accuracy: 0.9083 - precision: 0.9207 - recall: 0.8977 - F1: 0.9090 - F2: 0.9022 - val_loss: 0.2663 - val_binary_accuracy: 0.8980 - val_precision: 0.8888 - val_recall: 0.8893 - val_F1: 0.8891 - val_F2: 0.8892
+Epoch 134/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2241 - binary_accuracy: 0.9075 - precision: 0.9198 - recall: 0.8968 - F1: 0.9082 - F2: 0.9013
+Epoch 00134: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2241 - binary_accuracy: 0.9075 - precision: 0.9198 - recall: 0.8969 - F1: 0.9082 - F2: 0.9014 - val_loss: 0.2631 - val_binary_accuracy: 0.8997 - val_precision: 0.8935 - val_recall: 0.8875 - val_F1: 0.8905 - val_F2: 0.8887
+Epoch 135/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2242 - binary_accuracy: 0.9063 - precision: 0.9171 - recall: 0.8973 - F1: 0.9071 - F2: 0.9012
+Epoch 00135: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2243 - binary_accuracy: 0.9062 - precision: 0.9171 - recall: 0.8972 - F1: 0.9071 - F2: 0.9011 - val_loss: 0.2615 - val_binary_accuracy: 0.8997 - val_precision: 0.8984 - val_recall: 0.8815 - val_F1: 0.8898 - val_F2: 0.8848
+Epoch 136/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2255 - binary_accuracy: 0.9067 - precision: 0.9193 - recall: 0.8958 - F1: 0.9074 - F2: 0.9004
+Epoch 00136: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2258 - binary_accuracy: 0.9065 - precision: 0.9191 - recall: 0.8955 - F1: 0.9072 - F2: 0.9002 - val_loss: 0.2623 - val_binary_accuracy: 0.8992 - val_precision: 0.8959 - val_recall: 0.8833 - val_F1: 0.8896 - val_F2: 0.8858
+Epoch 137/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2247 - binary_accuracy: 0.9075 - precision: 0.9187 - recall: 0.8982 - F1: 0.9083 - F2: 0.9022
+Epoch 00137: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2246 - binary_accuracy: 0.9075 - precision: 0.9187 - recall: 0.8982 - F1: 0.9083 - F2: 0.9022 - val_loss: 0.2608 - val_binary_accuracy: 0.9000 - val_precision: 0.8955 - val_recall: 0.8859 - val_F1: 0.8907 - val_F2: 0.8878
+Epoch 138/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2225 - binary_accuracy: 0.9078 - precision: 0.9193 - recall: 0.8981 - F1: 0.9085 - F2: 0.9022
+Epoch 00138: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2226 - binary_accuracy: 0.9077 - precision: 0.9193 - recall: 0.8980 - F1: 0.9085 - F2: 0.9021 - val_loss: 0.2660 - val_binary_accuracy: 0.8979 - val_precision: 0.8917 - val_recall: 0.8854 - val_F1: 0.8885 - val_F2: 0.8866
+Epoch 139/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2231 - binary_accuracy: 0.9063 - precision: 0.9177 - recall: 0.8968 - F1: 0.9071 - F2: 0.9009
+Epoch 00139: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2231 - binary_accuracy: 0.9063 - precision: 0.9177 - recall: 0.8968 - F1: 0.9071 - F2: 0.9009 - val_loss: 0.2651 - val_binary_accuracy: 0.9003 - val_precision: 0.8947 - val_recall: 0.8875 - val_F1: 0.8911 - val_F2: 0.8889
+Epoch 140/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2219 - binary_accuracy: 0.9082 - precision: 0.9198 - recall: 0.8985 - F1: 0.9090 - F2: 0.9026
+Epoch 00140: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2218 - binary_accuracy: 0.9083 - precision: 0.9197 - recall: 0.8985 - F1: 0.9090 - F2: 0.9027 - val_loss: 0.2661 - val_binary_accuracy: 0.8968 - val_precision: 0.8896 - val_recall: 0.8854 - val_F1: 0.8875 - val_F2: 0.8862
+Epoch 141/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2217 - binary_accuracy: 0.9081 - precision: 0.9194 - recall: 0.8987 - F1: 0.9089 - F2: 0.9028
+Epoch 00141: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2220 - binary_accuracy: 0.9080 - precision: 0.9194 - recall: 0.8984 - F1: 0.9088 - F2: 0.9025 - val_loss: 0.2632 - val_binary_accuracy: 0.8980 - val_precision: 0.8894 - val_recall: 0.8885 - val_F1: 0.8890 - val_F2: 0.8887
+Epoch 142/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2235 - binary_accuracy: 0.9069 - precision: 0.9175 - recall: 0.8983 - F1: 0.9078 - F2: 0.9021
+Epoch 00142: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2235 - binary_accuracy: 0.9070 - precision: 0.9175 - recall: 0.8985 - F1: 0.9079 - F2: 0.9022 - val_loss: 0.2620 - val_binary_accuracy: 0.8983 - val_precision: 0.8932 - val_recall: 0.8846 - val_F1: 0.8889 - val_F2: 0.8863
+Epoch 143/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2207 - binary_accuracy: 0.9095 - precision: 0.9199 - recall: 0.9010 - F1: 0.9104 - F2: 0.9047
+Epoch 00143: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2212 - binary_accuracy: 0.9093 - precision: 0.9198 - recall: 0.9008 - F1: 0.9102 - F2: 0.9045 - val_loss: 0.2657 - val_binary_accuracy: 0.8976 - val_precision: 0.8885 - val_recall: 0.8888 - val_F1: 0.8887 - val_F2: 0.8887
+Epoch 144/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2226 - binary_accuracy: 0.9072 - precision: 0.9179 - recall: 0.8983 - F1: 0.9080 - F2: 0.9022
+Epoch 00144: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2225 - binary_accuracy: 0.9072 - precision: 0.9179 - recall: 0.8984 - F1: 0.9081 - F2: 0.9023 - val_loss: 0.2679 - val_binary_accuracy: 0.8988 - val_precision: 0.8913 - val_recall: 0.8883 - val_F1: 0.8898 - val_F2: 0.8889
+Epoch 145/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2225 - binary_accuracy: 0.9067 - precision: 0.9186 - recall: 0.8966 - F1: 0.9074 - F2: 0.9009
+Epoch 00145: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2226 - binary_accuracy: 0.9066 - precision: 0.9185 - recall: 0.8965 - F1: 0.9074 - F2: 0.9008 - val_loss: 0.2657 - val_binary_accuracy: 0.8991 - val_precision: 0.8946 - val_recall: 0.8846 - val_F1: 0.8896 - val_F2: 0.8866
+Epoch 146/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2220 - binary_accuracy: 0.9072 - precision: 0.9194 - recall: 0.8965 - F1: 0.9078 - F2: 0.9010
+Epoch 00146: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2217 - binary_accuracy: 0.9073 - precision: 0.9196 - recall: 0.8967 - F1: 0.9080 - F2: 0.9012 - val_loss: 0.2641 - val_binary_accuracy: 0.8982 - val_precision: 0.8873 - val_recall: 0.8919 - val_F1: 0.8896 - val_F2: 0.8910
+Epoch 147/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2212 - binary_accuracy: 0.9074 - precision: 0.9183 - recall: 0.8984 - F1: 0.9082 - F2: 0.9023
+Epoch 00147: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2213 - binary_accuracy: 0.9073 - precision: 0.9182 - recall: 0.8983 - F1: 0.9082 - F2: 0.9022 - val_loss: 0.2628 - val_binary_accuracy: 0.8981 - val_precision: 0.8944 - val_recall: 0.8825 - val_F1: 0.8884 - val_F2: 0.8849
+Epoch 148/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2223 - binary_accuracy: 0.9088 - precision: 0.9215 - recall: 0.8978 - F1: 0.9095 - F2: 0.9024
+Epoch 00148: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 10s 10ms/step - loss: 0.2223 - binary_accuracy: 0.9088 - precision: 0.9215 - recall: 0.8977 - F1: 0.9094 - F2: 0.9023 - val_loss: 0.2638 - val_binary_accuracy: 0.8994 - val_precision: 0.8949 - val_recall: 0.8851 - val_F1: 0.8900 - val_F2: 0.8871
+Epoch 149/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2198 - binary_accuracy: 0.9082 - precision: 0.9202 - recall: 0.8980 - F1: 0.9089 - F2: 0.9023
+Epoch 00149: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2199 - binary_accuracy: 0.9082 - precision: 0.9202 - recall: 0.8978 - F1: 0.9089 - F2: 0.9022 - val_loss: 0.2649 - val_binary_accuracy: 0.8980 - val_precision: 0.8938 - val_recall: 0.8830 - val_F1: 0.8884 - val_F2: 0.8852
+Epoch 150/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2209 - binary_accuracy: 0.9080 - precision: 0.9194 - recall: 0.8982 - F1: 0.9087 - F2: 0.9024
+Epoch 00150: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2208 - binary_accuracy: 0.9080 - precision: 0.9195 - recall: 0.8982 - F1: 0.9087 - F2: 0.9024 - val_loss: 0.2664 - val_binary_accuracy: 0.8976 - val_precision: 0.8987 - val_recall: 0.8760 - val_F1: 0.8872 - val_F2: 0.8804
+Epoch 151/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2211 - binary_accuracy: 0.9086 - precision: 0.9198 - recall: 0.8992 - F1: 0.9094 - F2: 0.9033
+Epoch 00151: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2212 - binary_accuracy: 0.9086 - precision: 0.9199 - recall: 0.8991 - F1: 0.9094 - F2: 0.9032 - val_loss: 0.2626 - val_binary_accuracy: 0.9000 - val_precision: 0.9006 - val_recall: 0.8796 - val_F1: 0.8900 - val_F2: 0.8837
+Epoch 152/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2197 - binary_accuracy: 0.9091 - precision: 0.9219 - recall: 0.8979 - F1: 0.9097 - F2: 0.9026
+Epoch 00152: ReduceLROnPlateau reducing learning rate to 2.499999936844688e-05.
+
+Epoch 00152: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2198 - binary_accuracy: 0.9091 - precision: 0.9218 - recall: 0.8979 - F1: 0.9097 - F2: 0.9026 - val_loss: 0.2648 - val_binary_accuracy: 0.8995 - val_precision: 0.8977 - val_recall: 0.8820 - val_F1: 0.8898 - val_F2: 0.8851
+Epoch 153/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2174 - binary_accuracy: 0.9097 - precision: 0.9209 - recall: 0.9004 - F1: 0.9105 - F2: 0.9044
+Epoch 00153: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2175 - binary_accuracy: 0.9097 - precision: 0.9209 - recall: 0.9004 - F1: 0.9105 - F2: 0.9044 - val_loss: 0.2617 - val_binary_accuracy: 0.8994 - val_precision: 0.8960 - val_recall: 0.8838 - val_F1: 0.8899 - val_F2: 0.8862
+Epoch 154/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2175 - binary_accuracy: 0.9101 - precision: 0.9226 - recall: 0.8992 - F1: 0.9108 - F2: 0.9038
+Epoch 00154: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2175 - binary_accuracy: 0.9101 - precision: 0.9226 - recall: 0.8992 - F1: 0.9108 - F2: 0.9038 - val_loss: 0.2631 - val_binary_accuracy: 0.9000 - val_precision: 0.8947 - val_recall: 0.8869 - val_F1: 0.8908 - val_F2: 0.8885
+Epoch 155/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2177 - binary_accuracy: 0.9105 - precision: 0.9216 - recall: 0.9013 - F1: 0.9114 - F2: 0.9053
+Epoch 00155: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2175 - binary_accuracy: 0.9106 - precision: 0.9217 - recall: 0.9014 - F1: 0.9114 - F2: 0.9054 - val_loss: 0.2627 - val_binary_accuracy: 0.8991 - val_precision: 0.8946 - val_recall: 0.8846 - val_F1: 0.8896 - val_F2: 0.8866
+Epoch 156/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2144 - binary_accuracy: 0.9120 - precision: 0.9237 - recall: 0.9020 - F1: 0.9127 - F2: 0.9063
+Epoch 00156: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2144 - binary_accuracy: 0.9120 - precision: 0.9237 - recall: 0.9020 - F1: 0.9127 - F2: 0.9063 - val_loss: 0.2642 - val_binary_accuracy: 0.8994 - val_precision: 0.8939 - val_recall: 0.8864 - val_F1: 0.8901 - val_F2: 0.8879
+Epoch 157/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2140 - binary_accuracy: 0.9113 - precision: 0.9224 - recall: 0.9021 - F1: 0.9121 - F2: 0.9061
+Epoch 00157: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2137 - binary_accuracy: 0.9116 - precision: 0.9226 - recall: 0.9023 - F1: 0.9123 - F2: 0.9063 - val_loss: 0.2623 - val_binary_accuracy: 0.9012 - val_precision: 0.8966 - val_recall: 0.8875 - val_F1: 0.8920 - val_F2: 0.8893
+Epoch 158/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2151 - binary_accuracy: 0.9107 - precision: 0.9221 - recall: 0.9011 - F1: 0.9114 - F2: 0.9052
+Epoch 00158: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2151 - binary_accuracy: 0.9107 - precision: 0.9221 - recall: 0.9011 - F1: 0.9114 - F2: 0.9052 - val_loss: 0.2637 - val_binary_accuracy: 0.9003 - val_precision: 0.8953 - val_recall: 0.8867 - val_F1: 0.8910 - val_F2: 0.8884
+Epoch 159/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2171 - binary_accuracy: 0.9111 - precision: 0.9230 - recall: 0.9009 - F1: 0.9118 - F2: 0.9052
+Epoch 00159: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2172 - binary_accuracy: 0.9110 - precision: 0.9231 - recall: 0.9006 - F1: 0.9117 - F2: 0.9050 - val_loss: 0.2631 - val_binary_accuracy: 0.8993 - val_precision: 0.8896 - val_recall: 0.8916 - val_F1: 0.8906 - val_F2: 0.8912
+Epoch 160/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2154 - binary_accuracy: 0.9121 - precision: 0.9227 - recall: 0.9033 - F1: 0.9129 - F2: 0.9071
+Epoch 00160: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2154 - binary_accuracy: 0.9121 - precision: 0.9227 - recall: 0.9033 - F1: 0.9129 - F2: 0.9071 - val_loss: 0.2627 - val_binary_accuracy: 0.9009 - val_precision: 0.8997 - val_recall: 0.8828 - val_F1: 0.8911 - val_F2: 0.8861
+Epoch 161/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2158 - binary_accuracy: 0.9106 - precision: 0.9215 - recall: 0.9015 - F1: 0.9114 - F2: 0.9055
+Epoch 00161: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2157 - binary_accuracy: 0.9106 - precision: 0.9213 - recall: 0.9017 - F1: 0.9114 - F2: 0.9056 - val_loss: 0.2640 - val_binary_accuracy: 0.8995 - val_precision: 0.8975 - val_recall: 0.8822 - val_F1: 0.8898 - val_F2: 0.8853
+Epoch 162/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2153 - binary_accuracy: 0.9105 - precision: 0.9240 - recall: 0.8986 - F1: 0.9111 - F2: 0.9036
+Epoch 00162: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2153 - binary_accuracy: 0.9105 - precision: 0.9239 - recall: 0.8986 - F1: 0.9111 - F2: 0.9035 - val_loss: 0.2642 - val_binary_accuracy: 0.9001 - val_precision: 0.8951 - val_recall: 0.8867 - val_F1: 0.8909 - val_F2: 0.8884
+Epoch 163/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2148 - binary_accuracy: 0.9105 - precision: 0.9222 - recall: 0.9005 - F1: 0.9113 - F2: 0.9048
+Epoch 00163: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2148 - binary_accuracy: 0.9105 - precision: 0.9222 - recall: 0.9005 - F1: 0.9113 - F2: 0.9048 - val_loss: 0.2625 - val_binary_accuracy: 0.9004 - val_precision: 0.8960 - val_recall: 0.8862 - val_F1: 0.8910 - val_F2: 0.8881
+Epoch 164/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2133 - binary_accuracy: 0.9136 - precision: 0.9241 - recall: 0.9050 - F1: 0.9145 - F2: 0.9088
+Epoch 00164: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2133 - binary_accuracy: 0.9136 - precision: 0.9241 - recall: 0.9050 - F1: 0.9145 - F2: 0.9088 - val_loss: 0.2623 - val_binary_accuracy: 0.8999 - val_precision: 0.8965 - val_recall: 0.8843 - val_F1: 0.8904 - val_F2: 0.8867
+Epoch 165/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2162 - binary_accuracy: 0.9106 - precision: 0.9209 - recall: 0.9022 - F1: 0.9115 - F2: 0.9059
+Epoch 00165: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2162 - binary_accuracy: 0.9106 - precision: 0.9209 - recall: 0.9022 - F1: 0.9115 - F2: 0.9059 - val_loss: 0.2640 - val_binary_accuracy: 0.8989 - val_precision: 0.8930 - val_recall: 0.8864 - val_F1: 0.8897 - val_F2: 0.8877
+Epoch 166/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2131 - binary_accuracy: 0.9122 - precision: 0.9234 - recall: 0.9028 - F1: 0.9130 - F2: 0.9068
+Epoch 00166: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2129 - binary_accuracy: 0.9123 - precision: 0.9235 - recall: 0.9028 - F1: 0.9131 - F2: 0.9069 - val_loss: 0.2643 - val_binary_accuracy: 0.9000 - val_precision: 0.8940 - val_recall: 0.8877 - val_F1: 0.8909 - val_F2: 0.8890
+Epoch 167/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2162 - binary_accuracy: 0.9101 - precision: 0.9218 - recall: 0.9001 - F1: 0.9108 - F2: 0.9043
+Epoch 00167: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2160 - binary_accuracy: 0.9102 - precision: 0.9219 - recall: 0.9001 - F1: 0.9109 - F2: 0.9044 - val_loss: 0.2638 - val_binary_accuracy: 0.8986 - val_precision: 0.8906 - val_recall: 0.8885 - val_F1: 0.8896 - val_F2: 0.8889
+Epoch 168/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2145 - binary_accuracy: 0.9113 - precision: 0.9234 - recall: 0.9009 - F1: 0.9120 - F2: 0.9053
+Epoch 00168: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2142 - binary_accuracy: 0.9114 - precision: 0.9234 - recall: 0.9011 - F1: 0.9121 - F2: 0.9055 - val_loss: 0.2665 - val_binary_accuracy: 0.9001 - val_precision: 0.8936 - val_recall: 0.8885 - val_F1: 0.8911 - val_F2: 0.8895
+Epoch 169/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2142 - binary_accuracy: 0.9115 - precision: 0.9233 - recall: 0.9013 - F1: 0.9122 - F2: 0.9056
+Epoch 00169: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2142 - binary_accuracy: 0.9115 - precision: 0.9233 - recall: 0.9013 - F1: 0.9122 - F2: 0.9056 - val_loss: 0.2634 - val_binary_accuracy: 0.9011 - val_precision: 0.9014 - val_recall: 0.8812 - val_F1: 0.8912 - val_F2: 0.8852
+Epoch 170/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2149 - binary_accuracy: 0.9125 - precision: 0.9240 - recall: 0.9027 - F1: 0.9133 - F2: 0.9069
+Epoch 00170: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2149 - binary_accuracy: 0.9125 - precision: 0.9239 - recall: 0.9028 - F1: 0.9133 - F2: 0.9070 - val_loss: 0.2646 - val_binary_accuracy: 0.9006 - val_precision: 0.8948 - val_recall: 0.8883 - val_F1: 0.8915 - val_F2: 0.8896
+Epoch 171/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2152 - binary_accuracy: 0.9117 - precision: 0.9225 - recall: 0.9028 - F1: 0.9125 - F2: 0.9067
+Epoch 00171: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2152 - binary_accuracy: 0.9117 - precision: 0.9224 - recall: 0.9028 - F1: 0.9125 - F2: 0.9067 - val_loss: 0.2650 - val_binary_accuracy: 0.8992 - val_precision: 0.8922 - val_recall: 0.8880 - val_F1: 0.8901 - val_F2: 0.8888
+Epoch 172/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2136 - binary_accuracy: 0.9116 - precision: 0.9234 - recall: 0.9015 - F1: 0.9123 - F2: 0.9058
+Epoch 00172: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2136 - binary_accuracy: 0.9116 - precision: 0.9234 - recall: 0.9015 - F1: 0.9123 - F2: 0.9058 - val_loss: 0.2632 - val_binary_accuracy: 0.9010 - val_precision: 0.9023 - val_recall: 0.8799 - val_F1: 0.8909 - val_F2: 0.8843
+Epoch 173/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2134 - binary_accuracy: 0.9115 - precision: 0.9235 - recall: 0.9011 - F1: 0.9121 - F2: 0.9055
+Epoch 00173: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2135 - binary_accuracy: 0.9114 - precision: 0.9236 - recall: 0.9010 - F1: 0.9121 - F2: 0.9054 - val_loss: 0.2643 - val_binary_accuracy: 0.8988 - val_precision: 0.8938 - val_recall: 0.8851 - val_F1: 0.8894 - val_F2: 0.8868
+Epoch 174/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2125 - binary_accuracy: 0.9115 - precision: 0.9211 - recall: 0.9041 - F1: 0.9125 - F2: 0.9074
+Epoch 00174: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2127 - binary_accuracy: 0.9115 - precision: 0.9210 - recall: 0.9040 - F1: 0.9124 - F2: 0.9074 - val_loss: 0.2618 - val_binary_accuracy: 0.9015 - val_precision: 0.9022 - val_recall: 0.8812 - val_F1: 0.8916 - val_F2: 0.8853
+Epoch 175/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2144 - binary_accuracy: 0.9112 - precision: 0.9234 - recall: 0.9007 - F1: 0.9119 - F2: 0.9051
+Epoch 00175: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2144 - binary_accuracy: 0.9112 - precision: 0.9234 - recall: 0.9007 - F1: 0.9119 - F2: 0.9051 - val_loss: 0.2648 - val_binary_accuracy: 0.8991 - val_precision: 0.8948 - val_recall: 0.8843 - val_F1: 0.8896 - val_F2: 0.8864
+Epoch 176/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2127 - binary_accuracy: 0.9131 - precision: 0.9243 - recall: 0.9038 - F1: 0.9139 - F2: 0.9078
+Epoch 00176: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2127 - binary_accuracy: 0.9131 - precision: 0.9243 - recall: 0.9038 - F1: 0.9139 - F2: 0.9078 - val_loss: 0.2644 - val_binary_accuracy: 0.9004 - val_precision: 0.8979 - val_recall: 0.8838 - val_F1: 0.8908 - val_F2: 0.8866
+Epoch 177/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2152 - binary_accuracy: 0.9115 - precision: 0.9232 - recall: 0.9014 - F1: 0.9122 - F2: 0.9057
+Epoch 00177: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2152 - binary_accuracy: 0.9115 - precision: 0.9232 - recall: 0.9014 - F1: 0.9122 - F2: 0.9057 - val_loss: 0.2648 - val_binary_accuracy: 0.8983 - val_precision: 0.8938 - val_recall: 0.8838 - val_F1: 0.8888 - val_F2: 0.8858
+Epoch 178/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2129 - binary_accuracy: 0.9119 - precision: 0.9234 - recall: 0.9020 - F1: 0.9126 - F2: 0.9062
+Epoch 00178: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2129 - binary_accuracy: 0.9118 - precision: 0.9233 - recall: 0.9019 - F1: 0.9125 - F2: 0.9061 - val_loss: 0.2651 - val_binary_accuracy: 0.8994 - val_precision: 0.8970 - val_recall: 0.8825 - val_F1: 0.8897 - val_F2: 0.8854
+Epoch 179/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2130 - binary_accuracy: 0.9130 - precision: 0.9245 - recall: 0.9032 - F1: 0.9138 - F2: 0.9074
+Epoch 00179: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2131 - binary_accuracy: 0.9129 - precision: 0.9243 - recall: 0.9032 - F1: 0.9136 - F2: 0.9073 - val_loss: 0.2651 - val_binary_accuracy: 0.8995 - val_precision: 0.8939 - val_recall: 0.8867 - val_F1: 0.8903 - val_F2: 0.8881
+Epoch 180/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2130 - binary_accuracy: 0.9119 - precision: 0.9246 - recall: 0.9007 - F1: 0.9125 - F2: 0.9053
+Epoch 00180: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2133 - binary_accuracy: 0.9118 - precision: 0.9246 - recall: 0.9006 - F1: 0.9124 - F2: 0.9053 - val_loss: 0.2647 - val_binary_accuracy: 0.8974 - val_precision: 0.8905 - val_recall: 0.8856 - val_F1: 0.8881 - val_F2: 0.8866
+Epoch 181/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2130 - binary_accuracy: 0.9113 - precision: 0.9221 - recall: 0.9022 - F1: 0.9121 - F2: 0.9061
+Epoch 00181: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2131 - binary_accuracy: 0.9112 - precision: 0.9221 - recall: 0.9021 - F1: 0.9120 - F2: 0.9061 - val_loss: 0.2622 - val_binary_accuracy: 0.8994 - val_precision: 0.8968 - val_recall: 0.8828 - val_F1: 0.8897 - val_F2: 0.8855
+Epoch 182/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2145 - binary_accuracy: 0.9123 - precision: 0.9240 - recall: 0.9022 - F1: 0.9130 - F2: 0.9065
+Epoch 00182: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2145 - binary_accuracy: 0.9122 - precision: 0.9240 - recall: 0.9022 - F1: 0.9130 - F2: 0.9065 - val_loss: 0.2614 - val_binary_accuracy: 0.9011 - val_precision: 0.8987 - val_recall: 0.8846 - val_F1: 0.8916 - val_F2: 0.8874
+Epoch 183/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2130 - binary_accuracy: 0.9122 - precision: 0.9235 - recall: 0.9026 - F1: 0.9129 - F2: 0.9067
+Epoch 00183: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2130 - binary_accuracy: 0.9122 - precision: 0.9235 - recall: 0.9026 - F1: 0.9129 - F2: 0.9067 - val_loss: 0.2652 - val_binary_accuracy: 0.8979 - val_precision: 0.8904 - val_recall: 0.8869 - val_F1: 0.8887 - val_F2: 0.8876
+Epoch 184/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2123 - binary_accuracy: 0.9123 - precision: 0.9230 - recall: 0.9034 - F1: 0.9131 - F2: 0.9073
+Epoch 00184: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2123 - binary_accuracy: 0.9122 - precision: 0.9230 - recall: 0.9032 - F1: 0.9130 - F2: 0.9071 - val_loss: 0.2645 - val_binary_accuracy: 0.8982 - val_precision: 0.8887 - val_recall: 0.8901 - val_F1: 0.8894 - val_F2: 0.8898
+Epoch 185/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2120 - binary_accuracy: 0.9123 - precision: 0.9236 - recall: 0.9029 - F1: 0.9131 - F2: 0.9069
+Epoch 00185: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2122 - binary_accuracy: 0.9122 - precision: 0.9235 - recall: 0.9027 - F1: 0.9130 - F2: 0.9068 - val_loss: 0.2637 - val_binary_accuracy: 0.8998 - val_precision: 0.9014 - val_recall: 0.8781 - val_F1: 0.8896 - val_F2: 0.8826
+Epoch 186/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2141 - binary_accuracy: 0.9118 - precision: 0.9243 - recall: 0.9010 - F1: 0.9125 - F2: 0.9055
+Epoch 00186: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2140 - binary_accuracy: 0.9119 - precision: 0.9244 - recall: 0.9010 - F1: 0.9126 - F2: 0.9056 - val_loss: 0.2652 - val_binary_accuracy: 0.8997 - val_precision: 0.8935 - val_recall: 0.8875 - val_F1: 0.8905 - val_F2: 0.8887
+Epoch 187/1000
+1041/1042 [============================>.] - ETA: 0s - loss: 0.2139 - binary_accuracy: 0.9101 - precision: 0.9206 - recall: 0.9016 - F1: 0.9110 - F2: 0.9053
+Epoch 00187: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2140 - binary_accuracy: 0.9101 - precision: 0.9206 - recall: 0.9016 - F1: 0.9110 - F2: 0.9053 - val_loss: 0.2625 - val_binary_accuracy: 0.9005 - val_precision: 0.8973 - val_recall: 0.8849 - val_F1: 0.8910 - val_F2: 0.8873
+Epoch 188/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2106 - binary_accuracy: 0.9130 - precision: 0.9249 - recall: 0.9027 - F1: 0.9137 - F2: 0.9071
+Epoch 00188: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2106 - binary_accuracy: 0.9130 - precision: 0.9249 - recall: 0.9027 - F1: 0.9137 - F2: 0.9071 - val_loss: 0.2648 - val_binary_accuracy: 0.9001 - val_precision: 0.8968 - val_recall: 0.8846 - val_F1: 0.8906 - val_F2: 0.8870
+Epoch 189/1000
+1038/1042 [============================>.] - ETA: 0s - loss: 0.2125 - binary_accuracy: 0.9125 - precision: 0.9245 - recall: 0.9022 - F1: 0.9132 - F2: 0.9066
+Epoch 00189: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 11ms/step - loss: 0.2124 - binary_accuracy: 0.9126 - precision: 0.9246 - recall: 0.9022 - F1: 0.9133 - F2: 0.9066 - val_loss: 0.2638 - val_binary_accuracy: 0.8995 - val_precision: 0.8935 - val_recall: 0.8872 - val_F1: 0.8903 - val_F2: 0.8885
+Epoch 190/1000
+1037/1042 [============================>.] - ETA: 0s - loss: 0.2113 - binary_accuracy: 0.9121 - precision: 0.9234 - recall: 0.9025 - F1: 0.9129 - F2: 0.9066
+Epoch 00190: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2112 - binary_accuracy: 0.9122 - precision: 0.9234 - recall: 0.9027 - F1: 0.9129 - F2: 0.9067 - val_loss: 0.2650 - val_binary_accuracy: 0.8987 - val_precision: 0.8939 - val_recall: 0.8846 - val_F1: 0.8892 - val_F2: 0.8864
+Epoch 191/1000
+1042/1042 [==============================] - ETA: 0s - loss: 0.2136 - binary_accuracy: 0.9124 - precision: 0.9226 - recall: 0.9041 - F1: 0.9133 - F2: 0.9077
+Epoch 00191: ReduceLROnPlateau reducing learning rate to 1.249999968422344e-05.
+
+Epoch 00191: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2136 - binary_accuracy: 0.9124 - precision: 0.9226 - recall: 0.9041 - F1: 0.9133 - F2: 0.9077 - val_loss: 0.2633 - val_binary_accuracy: 0.8995 - val_precision: 0.8931 - val_recall: 0.8877 - val_F1: 0.8904 - val_F2: 0.8888
+Epoch 192/1000
+1040/1042 [============================>.] - ETA: 0s - loss: 0.2110 - binary_accuracy: 0.9121 - precision: 0.9240 - recall: 0.9020 - F1: 0.9128 - F2: 0.9063
+Epoch 00192: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 11s 10ms/step - loss: 0.2109 - binary_accuracy: 0.9122 - precision: 0.9241 - recall: 0.9020 - F1: 0.9129 - F2: 0.9063 - val_loss: 0.2638 - val_binary_accuracy: 0.9011 - val_precision: 0.8993 - val_recall: 0.8838 - val_F1: 0.8915 - val_F2: 0.8869
+Epoch 193/1000
+1039/1042 [============================>.] - ETA: 0s - loss: 0.2120 - binary_accuracy: 0.9137 - precision: 0.9262 - recall: 0.9028 - F1: 0.9144 - F2: 0.9074
+Epoch 00193: val_loss did not improve from 0.25965
+1042/1042 [==============================] - 10s 10ms/step - loss: 0.2121 - binary_accuracy: 0.9136 - precision: 0.9261 - recall: 0.9027 - F1: 0.9143 - F2: 0.9073 - val_loss: 0.2643 - val_binary_accuracy: 0.8995 - val_precision: 0.8943 - val_recall: 0.8862 - val_F1: 0.8902 - val_F2: 0.8878
+Epoch 00193: early stopping
